@@ -388,104 +388,294 @@
 
 
 # B  
-| 词汇        | 词性                   | 中文释义                                                                                     | 附录 |
-|-------------|------------------------|----------------------------------------------------------------------------------------------|------|
-| baby        | n.                     | 婴儿，孩子                                                                                   |      |
-| bachelor    | n.                     | 学士；单身汉                                                                                 |      |
-| back        | ad.<br>n.<br>a.<br>vt. | 向后，后退，回复<br>背，背面，后面<br>后面的，背后的<br>使后退；支持                         |      |
-| backup      | n.<br>a.               | 支持；后援；阻塞<br>支持的；候补的                                                           |      |
-| background  | n.                     | 背景；经历                                                                                   |      |
-| backward(s) | a.<br>ad.              | 向后的，相反的；落后的<br>向后地，倒，逆                                                     |      |
-| bacon       | n.                     | 咸肉；熏肉                                                                                   |      |
-| bacteria    | n.                     | (pl.)细菌                                                                                    |      |
-| bad         | a.                     | 坏的，恶的；有害的，不利的；低劣的，拙劣的；<br>腐败的，臭的；不舒服的，病的；严重的，厉害的 |      |
-| badge       | n.                     | 徽章；标记；证章                                                                             |      |
-| bag         | n.                     | 袋，提包，背包                                                                               |      |
-| baggage     | n.                     | 行李                                                                                         |      |
-| bake        | v.                     | 烤，烘，焙                                                                                   |      |
-| bakery      | n.                     | 面包店                                                                                       |      |
-| balance     | vt.<br>n.              | 使平衡<br>平衡；差额，结余；天平，秤                                                         |      |
-|balcony|n.|阳台；包厢；戏院楼厅||
-|bald|a.|秃顶的；单调的||
-|ball|n.|球，球状物；大型舞会||
-|ballet|n.|芭蕾舞剧；芭蕾舞乐曲||
-|balloon|n.|气球||
-|bamboo|n.|竹子||
-|ban|vt.<br>n.|禁止；取缔，查禁<br>禁止，禁令||
-|banana|n.|香蕉||
-|band|n.|条，带；乐队，军乐队；一群，一伙；波段||
-|bandage|n.|绷带||
-|bang|n.<br>vi.<br>vt.|巨响，爆炸声；猛击，猛撞<br>猛击，猛撞；发出砰的一声，砰砰作响<br>猛击，猛撞||
-|bank|n.|岸，堤；银行||
-|banker|n.|银行家||
-|bankrupt|a.<br>vt.<br>n.|破产的<br>使破产<br>破产者||
-|banner|n.|横幅；旗帜||
-|banquet|n.|宴会，盛宴||
-|bar|n.|棍，横木，闩；酒吧||
-|barber|n.|理发师||
-|bare|a.|赤裸的，光秃的，空的；极少的，仅有的||
-|barely|ad.|几乎没有；仅仅||
-|bargain|v.<br>n.|讨价还价<br>便宜货；交易||
-|bark|vi.<br>n.|吠；叫骂<br>树皮；吠声||
-|barn|n.|谷仓；牲口棚||
-|barrel|n.|枪管，炮管；桶||
-|barren|a.|贫瘠的；不生育的||
-|barrier|n.|栅栏；障碍，屏障||
-|base|n.<br>vt.|基础，底座；基地<br>(on)把……建立在……基础上||
-|baseball|n.|棒球，棒球运动||
-|basement|n.|地下室||
-|basic|a.<br>n.|基本的，基础的，根本的；主要的，首要的<br>基础，基本||
-|basically|ad.|基本地，跟本地||
-|basin|n.|盆；盆地||
-|basis|n.|基础，基底；基准，根据||
-|basket|n.|篮子，篓||
-|bat|n.|蝙蝠；球棒||
-|bath|n.|洗澡，沐浴；浴缸，浴盆，浴池||
-|bathroom|n.|浴室；盥洗室||
-|battery|n.|电池(组）||
-|battle|n.<br>vi.|战斗，战役，斗争<br>战斗，斗争，搏斗||
-|bay|n.|海湾||
-|be|vi.<br>aux. v.|是，就是，等于；在，存在<br>[与动词现在分词连用，构成各种进行时态]；<br>[与及物动词的过去分词连用，构成被动语态]；<br>[后接动词不定式，表示安排等]||
-|beach|n.|海滨，海滩||
-|beam|n.<br>vi.|一束；一道横梁<br>发光，发热||
-|bean|n.|豆，菜豆||
-|bear|n.<br>vt.|熊<br>忍受，容忍；负荷，负担；生育；心怀(爱憎等感情)||
-|beard|n.|胡须||
-|beast|n.|兽，牲畜；凶残的人||
-|beat|v.<br>vt./n<br>vi<br>n.|打败，战胜<br>打，敲；战胜<br>跳动<br>跳动；拍子，节拍||
-|beautiful|a.|美的，美丽的||
-|beauty|n.|美，美丽；美人，美丽的东西||
-|because|conj.|因为||
-|become|vi.|成为，变成||
-|bed|n.|床，床位；苗圃，花坛；河床，海底||
-|bee|n.|蜜蜂||
-|beef|n.|牛肉||
-|beer|n.|啤酒||
-|before|prep./conj.<br>prep.<br>ad.|在……之前<br>在……前面<br>从前，早些时候||
-|beforehand|ad.|预先||
-|beg|v.|乞讨；请求，恳求||
-|beggar|n.|乞丐，穷人||
-|begin|v.|开始，着手||
-|beginning|n.|开始，开端；起因||
-|behalf|n.|代表，利益||
-|behave|v.|举动，举止，表现||
-|behavio(u)r|n.|行为，举止||
-|behind|prep.<br>ad.|在……后面，落后于<br>在后，落后||
-|being|n.|存在，生存；存在物，生物，人||
-|belief|n.|相信；信仰，信条，信念||
-|believe|vt.<br>vi.|相信，认为<br>相信，信任，信奉||
-|bell|n.|钟，铃||
-|belly|n.|腹部；胃||
-|belong|vi.|(to)属，附属；归类于||
-|belongings|n.|财产，所有物||
-|beloved|a.|心爱的||
-|below|prep.<br>ad.|在……下面，在……以下<br>在下，以下，向下||
-|belt|n.|带，腰带||
-|bench|n.|长凳，条凳；工作台；台，座||
-|bend|n.<br>vt.|弯曲，曲折处<br>折弯；使屈服||
-|beneath|prep.<br>ad.|在……下方，在……之下<br>在下方||
-|beneficial|a.|有益的，有利的||
-|benefit|n.<br>vt.<br>vi.|利益，恩惠<br>有利于，受益于<br>(from)得益于||
-|beside|prep.|在……旁边；和……相对||
-|besides|ad.<br>prep.|而且，还有<br>除……之外||
-|best|a.<br>ad.|最好的<br>最，最好||
+| 词汇         | 词性                        | 中文释义                                                                                                                                           | 附录 |
+|--------------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|------|
+| baby         | n.                          | 婴儿，孩子                                                                                                                                         |      |
+| bachelor     | n.                          | 学士；单身汉                                                                                                                                       |      |
+| back         | ad.<br>n.<br>a.<br>vt.      | 向后，后退，回复<br>背，背面，后面<br>后面的，背后的<br>使后退；支持                                                                               |      |
+| backup       | n.<br>a.                    | 支持；后援；阻塞<br>支持的；候补的                                                                                                                 |      |
+| background   | n.                          | 背景；经历                                                                                                                                         |      |
+| backward(s)  | a.<br>ad.                   | 向后的，相反的；落后的<br>向后地，倒，逆                                                                                                           |      |
+| bacon        | n.                          | 咸肉；熏肉                                                                                                                                         |      |
+| bacteria     | n.                          | (pl.)细菌                                                                                                                                          |      |
+| bad          | a.                          | 坏的，恶的；有害的，不利的；低劣的，拙劣的；<br>腐败的，臭的；不舒服的，病的；严重的，厉害的                                                       |      |
+| badge        | n.                          | 徽章；标记；证章                                                                                                                                   |      |
+| bag          | n.                          | 袋，提包，背包                                                                                                                                     |      |
+| baggage      | n.                          | 行李                                                                                                                                               |      |
+| bake         | v.                          | 烤，烘，焙                                                                                                                                         |      |
+| bakery       | n.                          | 面包店                                                                                                                                             |      |
+| balance      | vt.<br>n.                   | 使平衡<br>平衡；差额，结余；天平，秤                                                                                                               |      |
+| balcony      | n.                          | 阳台；包厢；戏院楼厅                                                                                                                               |      |
+| bald         | a.                          | 秃顶的；单调的                                                                                                                                     |      |
+| ball         | n.                          | 球，球状物；大型舞会                                                                                                                               |      |
+| ballet       | n.                          | 芭蕾舞剧；芭蕾舞乐曲                                                                                                                               |      |
+| balloon      | n.                          | 气球                                                                                                                                               |      |
+| bamboo       | n.                          | 竹子                                                                                                                                               |      |
+| ban          | vt.<br>n.                   | 禁止；取缔，查禁<br>禁止，禁令                                                                                                                     |      |
+| banana       | n.                          | 香蕉                                                                                                                                               |      |
+| band         | n.                          | 条，带；乐队，军乐队；一群，一伙；波段                                                                                                             |      |
+| bandage      | n.                          | 绷带                                                                                                                                               |      |
+| bang         | n.<br>vi.<br>vt.            | 巨响，爆炸声；猛击，猛撞<br>猛击，猛撞；发出砰的一声，砰砰作响<br>猛击，猛撞                                                                       |      |
+| bank         | n.                          | 岸，堤；银行                                                                                                                                       |      |
+| banker       | n.                          | 银行家                                                                                                                                             |      |
+| bankrupt     | a.<br>vt.<br>n.             | 破产的<br>使破产<br>破产者                                                                                                                         |      |
+| banner       | n.                          | 横幅；旗帜                                                                                                                                         |      |
+| banquet      | n.                          | 宴会，盛宴                                                                                                                                         |      |
+| bar          | n.                          | 棍，横木，闩；酒吧                                                                                                                                 |      |
+| barber       | n.                          | 理发师                                                                                                                                             |      |
+| bare         | a.                          | 赤裸的，光秃的，空的；极少的，仅有的                                                                                                               |      |
+| barely       | ad.                         | 几乎没有；仅仅                                                                                                                                     |      |
+| bargain      | v.<br>n.                    | 讨价还价<br>便宜货；交易                                                                                                                           |      |
+| bark         | vi.<br>n.                   | 吠；叫骂<br>树皮；吠声                                                                                                                             |      |
+| barn         | n.                          | 谷仓；牲口棚                                                                                                                                       |      |
+| barrel       | n.                          | 枪管，炮管；桶                                                                                                                                     |      |
+| barren       | a.                          | 贫瘠的；不生育的                                                                                                                                   |      |
+| barrier      | n.                          | 栅栏；障碍，屏障                                                                                                                                   |      |
+| base         | n.<br>vt.                   | 基础，底座；基地<br>(on)把……建立在……基础上                                                                                                         |      |
+| baseball     | n.                          | 棒球，棒球运动                                                                                                                                     |      |
+| basement     | n.                          | 地下室                                                                                                                                             |      |
+| basic        | a.<br>n.                    | 基本的，基础的，根本的；主要的，首要的<br>基础，基本                                                                                               |      |
+| basically    | ad.                         | 基本地，跟本地                                                                                                                                     |      |
+| basin        | n.                          | 盆；盆地                                                                                                                                           |      |
+| basis        | n.                          | 基础，基底；基准，根据                                                                                                                             |      |
+| basket       | n.                          | 篮子，篓                                                                                                                                           |      |
+| bat          | n.                          | 蝙蝠；球棒                                                                                                                                         |      |
+| bath         | n.                          | 洗澡，沐浴；浴缸，浴盆，浴池                                                                                                                       |      |
+| bathroom     | n.                          | 浴室；盥洗室                                                                                                                                       |      |
+| battery      | n.                          | 电池(组）                                                                                                                                          |      |
+| battle       | n.<br>vi.                   | 战斗，战役，斗争<br>战斗，斗争，搏斗                                                                                                               |      |
+| bay          | n.                          | 海湾                                                                                                                                               |      |
+| be           | vi.<br>aux. v.              | 是，就是，等于；在，存在<br>[与动词现在分词连用，构成各种进行时态]；<br>[与及物动词的过去分词连用，构成被动语态]；<br>[后接动词不定式，表示安排等] |      |
+| beach        | n.                          | 海滨，海滩                                                                                                                                         |      |
+| beam         | n.<br>vi.                   | 一束；一道横梁<br>发光，发热                                                                                                                       |      |
+| bean         | n.                          | 豆，菜豆                                                                                                                                           |      |
+| bear         | n.<br>vt.                   | 熊<br>忍受，容忍；负荷，负担；生育；心怀(爱憎等感情)                                                                                               |      |
+| beard        | n.                          | 胡须                                                                                                                                               |      |
+| beast        | n.                          | 兽，牲畜；凶残的人                                                                                                                                 |      |
+| beat         | v.<br>vt./n<br>vi<br>n.     | 打败，战胜<br>打，敲；战胜<br>跳动<br>跳动；拍子，节拍                                                                                             |      |
+| beautiful    | a.                          | 美的，美丽的                                                                                                                                       |      |
+| beauty       | n.                          | 美，美丽；美人，美丽的东西                                                                                                                         |      |
+| because      | conj.                       | 因为                                                                                                                                               |      |
+| become       | vi.                         | 成为，变成                                                                                                                                         |      |
+| bed          | n.                          | 床，床位；苗圃，花坛；河床，海底                                                                                                                   |      |
+| bee          | n.                          | 蜜蜂                                                                                                                                               |      |
+| beef         | n.                          | 牛肉                                                                                                                                               |      |
+| beer         | n.                          | 啤酒                                                                                                                                               |      |
+| before       | prep./conj.<br>prep.<br>ad. | 在……之前<br>在……前面<br>从前，早些时候                                                                                                             |      |
+| beforehand   | ad.                         | 预先                                                                                                                                               |      |
+| beg          | v.                          | 乞讨；请求，恳求                                                                                                                                   |      |
+| beggar       | n.                          | 乞丐，穷人                                                                                                                                         |      |
+| begin        | v.                          | 开始，着手                                                                                                                                         |      |
+| beginning    | n.                          | 开始，开端；起因                                                                                                                                   |      |
+| behalf       | n.                          | 代表，利益                                                                                                                                         |      |
+| behave       | v.                          | 举动，举止，表现                                                                                                                                   |      |
+| behavio(u)r  | n.                          | 行为，举止                                                                                                                                         |      |
+| behind       | prep.<br>ad.                | 在……后面，落后于<br>在后，落后                                                                                                                     |      |
+| being        | n.                          | 存在，生存；存在物，生物，人                                                                                                                       |      |
+| belief       | n.                          | 相信；信仰，信条，信念                                                                                                                             |      |
+| believe      | vt.<br>vi.                  | 相信，认为<br>相信，信任，信奉                                                                                                                     |      |
+| bell         | n.                          | 钟，铃                                                                                                                                             |      |
+| belly        | n.                          | 腹部；胃                                                                                                                                           |      |
+| belong       | vi.                         | (to)属，附属；归类于                                                                                                                               |      |
+| belongings   | n.                          | 财产，所有物                                                                                                                                       |      |
+| beloved      | a.                          | 心爱的                                                                                                                                             |      |
+| below        | prep.<br>ad.                | 在……下面，在……以下<br>在下，以下，向下                                                                                                             |      |
+| belt         | n.                          | 带，腰带                                                                                                                                           |      |
+| bench        | n.                          | 长凳，条凳；工作台；台，座                                                                                                                         |      |
+| bend         | n.<br>vt.                   | 弯曲，曲折处<br>折弯；使屈服                                                                                                                       |      |
+| beneath      | prep.<br>ad.                | 在……下方，在……之下<br>在下方                                                                                                                       |      |
+| beneficial   | a.                          | 有益的，有利的                                                                                                                                     |      |
+| benefit      | n.<br>vt.<br>vi.            | 利益，恩惠<br>有利于，受益于<br>(from)得益于                                                                                                       |      |
+| beside       | prep.                       | 在……旁边；和……相对                                                                                                                                 |      |
+| besides      | ad.<br>prep.                | 而且，还有<br>除……之外                                                                                                                             |      |
+| best         | a.<br>ad.                   | 最好的<br>最，最好                                                                                                                                 |      |
+| bet          | vt.<br>vi.<br>n.            | 以……打赌，与……打赌<br>赌，打赌<br>打赌；赌注，赌金                                                                                                 |      |
+| betray       | vt.                         | 背叛，辜负，暴露                                                                                                                                   |      |
+| better       | a.<br>ad.<br>vt.            | 较好的，更好的<br>更好<br>改良，改善                                                                                                               |      |
+| between      | prep.<br>ad.                | 在……中间，在……之间<br>当中，中间                                                                                                                   |      |
+| beverage     | n.                          | 饮料                                                                                                                                               |      |
+| bewilder     | vt.                         | 使迷惑，使不知所措                                                                                                                                 |      |
+| beyond       | prep.<br>ad.                | 在……那边，在……以外；超出，超过<br>在那边，在远处                                                                                                   |      |
+| bias         | n.                          | 偏见；斜纹；偏爱                                                                                                                                   |      |
+| Bible        | n.                          | 圣经                                                                                                                                               |      |
+| bicycle      | n.                          | 自行车                                                                                                                                             |      |
+| bid          | vt.<br>n.                   | 出价，投标<br>出价，投标                                                                                                                           |      |
+| big          | a.                          | 大的，重要的                                                                                                                                       |      |
+| bike         |                             | bicycle                                                                                                                                            |      |
+| bill         | n.                          | 账单；票据；纸币；提案                                                                                                                             |      |
+| billion      | n.                          | [美]十亿；[英]万亿                                                                                                                                 |      |
+| billionaire  | n.                          | 亿万富翁                                                                                                                                           |      |
+| bind         | vt.                         | 绑，包扎；束缚                                                                                                                                     |      |
+| biochemistry | n.                          | 生物化学                                                                                                                                           |      |
+| biography    | n.                          | 传记；档案                                                                                                                                         |      |
+| biology      | n.                          | 生物学                                                                                                                                             |      |
+| biomedical   | a.                          | 生物医学的                                                                                                                                         |      |
+| bird         | n.                          | 鸟，禽                                                                                                                                             |      |
+| birth        | n.                          | 出生；出身；起源                                                                                                                                   |      |
+| birthday     | n.                          | 生日                                                                                                                                               |      |
+| birthright   | n.                          | 与生俱来的权利                                                                                                                                     |      |
+| biscuit      | n.                          | 饼干                                                                                                                                               |      |
+| bit          | n.                          | 一片，一点，一些                                                                                                                                   |      |
+| bite         | v./n.<br>n.                 | 咬，叮<br>一口                                                                                                                                     |      |
+| bitter       | a.                          | 苦味的；痛苦的；严寒的                                                                                                                             |      |
+| bizarre      | a.                          | 奇异的(指态度、容貌、款式等)                                                                                                                       |      |
+| black        | a./n.<br>n.                 | 黑，黑色；黑暗<br>黑色；黑人                                                                                                                       |      |
+| blackboard   | n.                          | 黑板                                                                                                                                               |      |
+| blade        | n.                          | 刀刃，刀片；叶片；翼                                                                                                                               |      |
+| blame        | vt.<br>n.                   | 责备，怪，怨；(on)把……归咎于<br>(过错、事故等的)责任；责怪，责备                                                                                   |      |
+| blank        | n.<br>a.                    | 空白；空白表格<br>空白的，空着的；茫然的，无表情的                                                                                                 |      |
+| blanket      | n.                          | 毛毯，毯子                                                                                                                                         |      |
+| blast        | vt.<br>n.                   | 炸掉，摧毁<br>爆炸，爆破；一阵(风)                                                                                                                 |      |
+| blaze        | n.<br>vi.                   | 火焰，烈火；光辉<br>燃烧                                                                                                                           |      |
+| bleed        | vi.                         | 出血，流血                                                                                                                                         |      |
+| blend        | v.<br>n.                    | 混合，掺杂，调和<br>混合；混合物                                                                                                                   |      |
+| bless        | vt.                         | 祝福；保佑；赞美                                                                                                                                   |      |
+| blind        | a.<br>vt.                   | 盲的，瞎的；盲目的<br>使失明；蒙蔽                                                                                                                 |      |
+| blink        | vt.<br>vi.<br>n.            | 眨眼；使闪烁<br>眨眼；闪烁<br>闪光；眨眼；瞬间                                                                                                     |      |
+| block        | vt.<br>n.                   | 阻塞，封锁<br>街区，街段；大块(木料、石料、金属、冰等)；阻塞物，路障                                                                               |      |
+| blog         | n.                          | 博客；网络日志                                                                                                                                     |      |
+| blood        | n.                          | 血，血液；血统，血亲                                                                                                                               |      |
+| bloodshed    | n.                          | 流血；杀戮                                                                                                                                         |      |
+| bloody       | a.                          | 流血的；血腥的；残忍的                                                                                                                             |      |
+| bloom        | vi./n.<br>n.                | 开花，繁荣<br>花；开花期                                                                                                                           |      |
+| blossom      | vi.<br>n.                   | 开花；兴旺<br>花；开花期；兴旺期                                                                                                                   |      |
+| blouse       | n.                          | 女衬衫                                                                                                                                             |      |
+| blow         | vi.<br>n.                   | 吹，吹气，打气；爆炸，爆裂<br>打，殴打，打击                                                                                                       |      |
+| blue         | a.<br>n.                    | 蓝色的；脸色发灰的；忧郁的<br>蓝色                                                                                                                 |      |
+| blue-collar  | a.                          | 蓝领阶级的，体力劳动者的                                                                                                                           |      |
+| blueprint    | n.                          | 蓝图，设计图；计划                                                                                                                                 |      |
+| blunder      | vi.<br>n.                   | 犯大错<br>大错                                                                                                                                     |      |
+| blur         | vt.<br>vi.<br>n.            | 使模糊不清；使暗淡<br>变模糊<br>模糊不清的事物                                                                                                     |      |
+| blush        | vi.                         | 脸红；感到惭愧                                                                                                                                     |      |
+| board        | n.<br>vt.                   | 板，木板，纸板；董事会，理事会<br>上船/车/飞机                                                                                                     |      |
+| boast        | vi.<br>vt.<br>n.            | (of/about)夸耀，说大话<br>吹嘘；以拥有……而自豪<br>自吹自擂                                                                                         |      |
+| boat         | n.                          | 船，小船                                                                                                                                           |      |
+| body         | n.                          | 身体，躯干；主体；物体；尸体；(一)群，(一)批                                                                                                       |      |
+| boil         | vi.<br>vt.                  | 沸腾<br>煮沸                                                                                                                                       |      |
+| boiler       | n.                          | 锅炉                                                                                                                                               |      |
+| bold         | a.                          | 勇敢的；冒失的；醒目的；(线、字等)粗的                                                                                                             |      |
+| bolt         | n.<br>vt.                   | 螺栓，插销；霹雳<br>闩门，关窗，拴住                                                                                                               |      |
+| bomb         | n.<br>vt.                   | 炸弹<br>轰炸                                                                                                                                       |      |
+| bond         | n.                          | 契约，公债，债券；联结，联系                                                                                                                       |      |
+| bone         | n.                          | 骨，骨骼                                                                                                                                           |      |
+| bonus        | n.                          | 奖金；红利；额外津贴                                                                                                                               |      |
+| book         | n.<br>vt.                   | 书，书籍<br>预订                                                                                                                                   |      |
+| booklet      | n.                          | 小册子                                                                                                                                             |      |
+| bookmark     | n.                          | 书签                                                                                                                                               |      |
+| boom         | v./n.                       | 隆隆声；繁荣，兴隆起来                                                                                                                             |      |
+| boost        | vt./n.                      | 举起；提高，促进                                                                                                                                   |      |
+| boot         | n.                          | 靴子                                                                                                                                               |      |
+| booth        | n.                          | 电话亭；货摊                                                                                                                                       |      |
+| border       | n.<br>vi.                   | 边缘；边界，边境<br>交界，与……毗邻；与……相识                                                                                                       |      |
+| bore         | vt.<br>n.                   | 钻洞，打眼，钻探；使厌烦<br>令人讨厌的人/物                                                                                                        |      |
+| boring       | a.<br>n.                    | 令人厌烦的<br>钻孔                                                                                                                                 |      |
+| born         | a.                          | 出生的；天生的，生来的                                                                                                                             |      |
+| borrow       | vt.                         | 借，借用                                                                                                                                           |      |
+| boss         | n.                          | 老板，上司，头儿                                                                                                                                   |      |
+| botany       | n.                          | 植物学                                                                                                                                             |      |
+| both         | pron.<br>a.                 | 两者，双方<br>两，双                                                                                                                               |      |
+| bother       | vt.<br>vi.<br>n.            | 打扰，麻烦<br>担心，烦恼<br>烦恼，焦急                                                                                                             |      |
+| bottle       | n.                          | 瓶子                                                                                                                                               |      |
+| bottom       | n.                          | 底，底部                                                                                                                                           |      |
+| bounce       | v./n.                       | (使)(球等)反弹，弹回；拍(球)                                                                                                                       |      |
+| bound        | a.                          | 必定，注定；受约束的；开往                                                                                                                         |      |
+| boundary     | n.                          | 界线，边界                                                                                                                                         |      |
+| bow          | n.<br>vi./n.                | 弓，弓形<br>鞠躬，点头                                                                                                                             |      |
+| bowl         | n.                          | 碗，钵                                                                                                                                             |      |
+| box          | n.<br>vi.                   | 箱子，盒子<br>拳击；打耳光                                                                                                                         |      |
+| boxing       | n.                          | 拳击                                                                                                                                               |      |
+| boy          | n.                          | 男孩，儿子                                                                                                                                         |      |
+| boycott      | vt.<br>n.                   | 联合抵制；拒绝参加<br>联合抵制                                                                                                                     |      |
+| brain        | n.                          | 大脑，脑髓；(pl.)心智，智力                                                                                                                        |      |
+| brake        | v./n.<br>n.                 | 刹车<br>闸，制动器                                                                                                                                 |      |
+| branch       | n.                          | 枝，树枝；分支，分科                                                                                                                               |      |
+| brand        | n.                          | 商标，(商品的)牌子                                                                                                                                 |      |
+| brass        | n.                          | 黄铜；铜器；铜管乐器                                                                                                                               |      |
+| brave        | a.                          | 勇敢的，英勇的                                                                                                                                     |      |
+| breach       | n.<br>vt.                   | 违背，违反<br>打破；违反，破坏                                                                                                                     |      |
+| bread        | n.                          | 面包                                                                                                                                               |      |
+| breadth      | n.                          | 宽度                                                                                                                                               |      |
+| break        | vt.<br>n.<br>vi.            | 打破，打碎；损坏，破坏，违反；中止<br>(课间或工间)休息时间<br>破，破裂                                                                             |      |
+| breakfast    | n.                          | 早饭，早餐                                                                                                                                         |      |
+| breakthrough | n.                          | 突破；突破性的发现                                                                                                                                 |      |
+| breast       | n.                          | 胸脯，乳房                                                                                                                                         |      |
+| breath       | n.                          | 呼吸，气息                                                                                                                                         |      |
+| breathe      | v.                          | 吸入，呼吸                                                                                                                                         |      |
+| breed        | vt.<br>n.                   | 生殖，繁殖；生产，饲养<br>品种，种类                                                                                                               |      |
+| breeze       | n.                          | 微风，和风                                                                                                                                         |      |
+| brew         | vt.<br>vi.                  | 酿造；酝酿<br>酿酒；被冲泡；即将发生                                                                                                               |      |
+| bribe        | vt./n.                      | 贿赂，(向……)行贿                                                                                                                                   |      |
+| brick        | n.                          | 砖，砖状物                                                                                                                                         |      |
+| bride        | n.                          | 新娘                                                                                                                                               |      |
+| bridge       | n.                          | 桥，桥梁；桥牌                                                                                                                                     |      |
+| brief        | a.<br>vt.                   | 简短，简洁；短暂<br>简单介绍                                                                                                                       |      |
+| briefcase    | n.                          | 公文包                                                                                                                                             |      |
+| bright       | a.                          | 明亮的，光明的；聪明的，伶俐的；快活的，美好的；(颜色)鲜艳的                                                                                       |      |
+| brighten     | vi.<br>vt.                  | 变亮；活跃；明亮；快乐高兴<br>使生辉；使闪亮；使快乐高兴                                                                                           |      |
+| brilliant    | a.                          | 辉煌的，灿烂的；杰出的，有才华的                                                                                                                   |      |
+| bring        | v.                          | 拿来，带来；产生，引起；使处于某种状态                                                                                                             |      |
+| brink        | n.                          | 边缘                                                                                                                                               |      |
+| brisk        | a.<br>vi.<br>vt.            | 敏锐的，活泼的，轻快的<br>活跃起来；变得轻快<br>使活泼；使轻快                                                                                     |      |
+| British      | a.<br>n.                    | 大不列颠人的；英国人的<br>英国人                                                                                                                   |      |
+| broad        | a.                          | 宽，广，广阔；宽宏，豁达                                                                                                                           |      |
+| broadband    | n.<br>a.                    | 宽频；宽波段<br>宽波段的；宽频带的                                                                                                                 |      |
+| broadcast    | n./v.                       | 广播，播音                                                                                                                                         |      |
+| broaden      | vi.<br>vt.                  | 变宽，加宽；变阔<br>使变宽                                                                                                                         |      |
+| brochure     | n.                          | 手册，小册子                                                                                                                                       |      |
+| broken       | a.                          | 坏掉的；破碎的                                                                                                                                     |      |
+| broker       | n.                          | 经纪人，掮客                                                                                                                                       |      |
+| bronze       | n.<br>a.                    | 青铜(铜与锡合金)；铜像<br>青铜色的                                                                                                                 |      |
+| brood        | vi.<br>n.                   | (over)沉思；孵<br> 一伙；一窝                                                                                                                      |      |
+| broom        | n.                          | 扫帚                                                                                                                                               |      |
+| brother      | n.                          | 兄弟，同胞                                                                                                                                         |      |
+| brow         | n.                          | 眉，眉毛                                                                                                                                           |      |
+| browse       | v./n.                       | 浏览                                                                                                                                               |      |
+| browser      | n.                          | 浏览器                                                                                                                                             |      |
+| brown        | a./n.                       | 棕色                                                                                                                                               |      |
+| bruise       | n.<br>vt.<br>vi.            | 擦伤；挫伤；青肿<br>使受瘀伤；使受挫伤<br>擦伤；受伤                                                                                               |      |
+| brunch       | n.                          | [口]早午餐                                                                                                                                         |      |
+| brush        | vt.<br>n.                   | 刷<br>刷，毛刷，画笔                                                                                                                               |      |
+| brutal       | a.                          | 残忍的；野蛮的                                                                                                                                     |      |
+| bubble       | n.<br>vi.                   | 泡，水泡，气泡<br>冒泡，起泡，沸腾                                                                                                                 |      |
+| bucket       | n.                          | 吊桶，水桶                                                                                                                                         |      |
+| bud          | n.                          | 芽，萌芽；蓓蕾                                                                                                                                     |      |
+| budget       | n.<br>vi.                   | 预算<br>做预算，编入预算                                                                                                                           |      |
+| bug          | n.<br>vt.<br>vi.            | 臭虫，小虫；窃听器；故障<br>烦扰，打扰；装窃听器<br>装置窃听器；打扰                                                                               |      |
+| build        | vt.                         | 修建，建造，建立                                                                                                                                   |      |
+| building     | n.                          | 建筑物，大楼                                                                                                                                       |      |
+| bulb         | n.                          | 灯泡；球状物                                                                                                                                       |      |
+| bulk         | n.                          | 体积，容积；大块，大批；大部分，主体                                                                                                               |      |
+| bull         | n.                          | 公牛                                                                                                                                               |      |
+| bullet       | n.                          | 子弹，枪弹                                                                                                                                         |      |
+| bulletin     | n.                          | 公报，公告；告示                                                                                                                                   |      |
+| bully        | n.<br>vt.<br>vi.            | 欺凌弱小者；土霸<br>欺负；威吓<br>欺侮人                                                                                                           |      |
+| bump         | v.                          | 碰(伤)；颠簸                                                                                                                                       |      |
+| bunch        | n.                          | 一束，一串                                                                                                                                         |      |
+| bundle       | n.                          | 捆，包，束                                                                                                                                         |      |
+| burden       | n.                          | 担子，重担，负担；义务，责任                                                                                                                       |      |
+| bureau       | n.                          | 司，局，处，部，所，署                                                                                                                             |      |
+| bureaucracy  | n.                          | 官僚政治；官僚主义；官僚机构                                                                                                                       |      |
+| bureaucrat   | n.                          | 官僚主义者；官僚                                                                                                                                   |      |
+| burial       | n.                          | 埋葬；葬礼                                                                                                                                         |      |
+| burn         | v.<br>v./n.                 | 燃烧，烧毁<br>灼伤，烧伤                                                                                                                           |      |
+| burst        | vi./n.<br>vi.               | 破裂，爆炸<br>(into)突然发生，突然发作                                                                                                             |      |
+| bury         | vt.                         | 埋，安葬                                                                                                                                           |      |
+| bus          | n.                          | 公共汽车                                                                                                                                           |      |
+| bush         | n.                          | 灌木，灌木丛                                                                                                                                       |      |
+| business     | n.                          | 生意，业务；事务，职责；公司，行业                                                                                                                 |      |
+| bust         | n.                          | 半身像                                                                                                                                             |      |
+| busy         | a.                          | 忙，忙碌；热闹的，繁忙的；(电话)占线                                                                                                               |      |
+| but          | conj.<br>prep.<br>ad.       | 可是，但是，然而<br>除……之外<br>只，仅仅                                                                                                           |      |
+| butcher      | n.                          | 屠夫，卖肉者                                                                                                                                       |      |
+| butter       | n.                          | 黄油，奶油                                                                                                                                         |      |
+| butterfly    | n.                          | 蝴蝶                                                                                                                                               |      |
+| button       | n.<br>vt.                   | 扣子；按钮<br>扣，扣紧                                                                                                                             |      |
+| buy          | vt.                         | 买，购买                                                                                                                                           |      |
+| buzz         | vi.<br>n.                   | 作嗡嗡声<br>嗡嗡声                                                                                                                                 |      |
+| by           | prep.<br><br>ad.            | 在……旁，靠近；被，由；在……前，到……为止；<br>经，沿，通过；[表示方法、手段]靠，用，通过；按照，根据<br>在旁，近旁，经过                             |      |
+| bypass       | vt.<br>n.                   | 忽视；绕开；设旁路；迂回<br>旁路；支路                                                                                                             |      |
+| bystander    | n.                          | 旁观者；看热闹的人                                                                                                                                 |      |
+| bye          | int.                        | 再见                                                                                                                                               |      |
+
+# C
+
