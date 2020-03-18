@@ -2546,69 +2546,296 @@
 | hysterical     | a.        | 歇斯底里的                                                       |      |
 
 # I  
-| 词汇           | 词性   | 中文释义                                                       | 附录 |
-|----------------|--------|----------------------------------------------------------------|------|
-| I              | pron.  | 我                                                             |      |
-| ice            | n.     | 冰；冷饮                                                       |      |
-| iceberg        | n.     | 冰山                                                           |      |
-| ice-cream      | n.     | 冰淇淋                                                         |      |
-| idea           | n.     | 想法，念头；概念，观念；意见，主意                             |      |
-| ideal          | a.     | 理想的，称心如意的；唯心论的                                   |      |
-|                | n.     | 理想                                                           |      |
-| identical      | a.     | 相同的，同一的                                                 |      |
-| identification | n.     | 辨认，视为同一；证明，鉴定                                     |      |
-| identify       | vt.    | 认出，鉴定；等同，打成一片                                     |      |
-| identity       | n.     | 身份；个性，特征                                               |      |
-| ideology       | n.     | 意识形态；思想意识                                             |      |
-| idiom          | n.     | 成语，方言，土语；习惯用语                                     |      |
-| idiot          | n.     | 白痴；笨蛋，傻瓜                                               |      |
-| idle           | a.     | 闲散的，闲置的；无用的，无效的                                 |      |
-|                | v.     | 空费，虚度                                                     |      |
-| if             | conj.  | 如果，假使；是不是                                             |      |
-| ignite         | vt.    | 点燃；使燃烧                                                   |      |
-| ignorance      | n.     | 无知，愚昧                                                     |      |
-| ignorant       | a.     | （of）无知的，愚昧的；不知道的                                 |      |
-| ignore         | vt.    | 不理，不顾，忽视                                               |      |
-| ill            | a.     | 有病的；坏的，恶意的                                           |      |
-|                | ad.    | 坏，不利                                                       |      |
-| illegal        | a.     | 不合法的；非法的                                               |      |
-| illicit        | a.     | 违法的；不正当的                                               |      |
-| illiterate     | a.     | 不识字的；没受教育的；文盲的                                   |      |
-| illness        | n.     | 病，疾病                                                       |      |
-| illuminate     | vt.    | 照亮；阐明，说明                                               |      |
-| illusion       | n.     | 幻想                                                           |      |
-| illustrate     | vt.    | 举例说明，图解                                                 |      |
-| image          | n.     | 像，肖像，形象；影像，图像                                     |      |
-| imaginary      | a.     | 想像的；虚构的                                                 |      |
-| imagination    | n.     | 想象，想象力；空想，幻想                                       |      |
-| imagine        | vt.    | 想象，设想；料想                                               |      |
-| imitate        | vt.    | 模仿，仿效；仿造，伪造                                         |      |
-| immediate      | a.     | 立即的，即时的；直接的，最接近的                               |      |
-| immense        | a.     | 巨大的，广大的                                                 |      |
-| immerse        | vt.    | 沉浸；使陷入                                                   |      |
-| immigrant      | n.     | 移民，侨民                                                     |      |
-|                | a.     | 移民的                                                         |      |
-| immigrate      | vi.    | 移居（入境）                                                   |      |
-| immigration    | n.     | 移居，移民                                                     |      |
-| immune         | a.     | （from）被豁免的，免除的；免疫（性）的，有免疫力的；不受影响的 |      |
-| impact         | n.     | （on）影响，作用；冲击，碰撞                                   |      |
-| impair         | vt.    | 损害；削弱                                                     |      |
-| impatient      | a.     | 不耐烦的，急躁的                                               |      |
-| imperial       | a.     | 帝国的；皇帝的                                                 |      |
-| imperialism    | n.     | 帝国主义                                                       |      |
-| imperialist    | n.     | 帝国主义者                                                     |      |
-|                | a.     | 帝国主义的                                                     |      |
-| implement      | vt.    | 实现，使生效；实施                                             |      |
-| implication    | n.     | 暗示，暗指，含义；牵连                                         |      |
-| implicit       | a.     | 暗示的；盲从的；含蓄的                                         |      |
-| imply          | vt.    | 意指，暗示                                                     |      |
-| import         | vt./n. | 输入，进口                                                     |      |
-|                | n.     | （pl.）进口商品，进口物质                                      |      |
-| importance     | n.     | 重要，重要性                                                   |      |
-| important      | a.     | 重要的，重大的；有地位的，显要的                               |      |
-| impose         | vt.    | （on）征税，强加；以……欺骗；利用，施影响                       |      |
-| impossible     | a.     | 不可能的，做不到的                                             |      |
-| impractical    | a.     | 不切实际的，不现实的；不能实行的                               |      |
-| impress        | vt.    | （on）印，盖印；留下印象                                       |      |
-| impression     | n.     | 印象，感想；印记                                               |      |
-|                |        |                                                        |      |
+| 词汇              | 词性   | 中文释义                                                       | 附录 |
+|-------------------|--------|----------------------------------------------------------------|------|
+| I                 | pron.  | 我                                                             |      |
+| ice               | n.     | 冰；冷饮                                                       |      |
+| iceberg           | n.     | 冰山                                                           |      |
+| ice-cream         | n.     | 冰淇淋                                                         |      |
+| idea              | n.     | 想法，念头；概念，观念；意见，主意                             |      |
+| ideal             | a.     | 理想的，称心如意的；唯心论的                                   |      |
+|                   | n.     | 理想                                                           |      |
+| identical         | a.     | 相同的，同一的                                                 |      |
+| identification    | n.     | 辨认，视为同一；证明，鉴定                                     |      |
+| identify          | vt.    | 认出，鉴定；等同，打成一片                                     |      |
+| identity          | n.     | 身份；个性，特征                                               |      |
+| ideology          | n.     | 意识形态；思想意识                                             |      |
+| idiom             | n.     | 成语，方言，土语；习惯用语                                     |      |
+| idiot             | n.     | 白痴；笨蛋，傻瓜                                               |      |
+| idle              | a.     | 闲散的，闲置的；无用的，无效的                                 |      |
+|                   | v.     | 空费，虚度                                                     |      |
+| if                | conj.  | 如果，假使；是不是                                             |      |
+| ignite            | vt.    | 点燃；使燃烧                                                   |      |
+| ignorance         | n.     | 无知，愚昧                                                     |      |
+| ignorant          | a.     | （of）无知的，愚昧的；不知道的                                 |      |
+| ignore            | vt.    | 不理，不顾，忽视                                               |      |
+| ill               | a.     | 有病的；坏的，恶意的                                           |      |
+|                   | ad.    | 坏，不利                                                       |      |
+| illegal           | a.     | 不合法的；非法的                                               |      |
+| illicit           | a.     | 违法的；不正当的                                               |      |
+| illiterate        | a.     | 不识字的；没受教育的；文盲的                                   |      |
+| illness           | n.     | 病，疾病                                                       |      |
+| illuminate        | vt.    | 照亮；阐明，说明                                               |      |
+| illusion          | n.     | 幻想                                                           |      |
+| illustrate        | vt.    | 举例说明，图解                                                 |      |
+| image             | n.     | 像，肖像，形象；影像，图像                                     |      |
+| imaginary         | a.     | 想像的；虚构的                                                 |      |
+| imagination       | n.     | 想象，想象力；空想，幻想                                       |      |
+| imagine           | vt.    | 想象，设想；料想                                               |      |
+| imitate           | vt.    | 模仿，仿效；仿造，伪造                                         |      |
+| immediate         | a.     | 立即的，即时的；直接的，最接近的                               |      |
+| immense           | a.     | 巨大的，广大的                                                 |      |
+| immerse           | vt.    | 沉浸；使陷入                                                   |      |
+| immigrant         | n.     | 移民，侨民                                                     |      |
+|                   | a.     | 移民的                                                         |      |
+| immigrate         | vi.    | 移居（入境）                                                   |      |
+| immigration       | n.     | 移居，移民                                                     |      |
+| immune            | a.     | （from）被豁免的，免除的；免疫（性）的，有免疫力的；不受影响的 |      |
+| impact            | n.     | （on）影响，作用；冲击，碰撞                                   |      |
+| impair            | vt.    | 损害；削弱                                                     |      |
+| impatient         | a.     | 不耐烦的，急躁的                                               |      |
+| imperial          | a.     | 帝国的；皇帝的                                                 |      |
+| imperialism       | n.     | 帝国主义                                                       |      |
+| imperialist       | n.     | 帝国主义者                                                     |      |
+|                   | a.     | 帝国主义的                                                     |      |
+| implement         | vt.    | 实现，使生效；实施                                             |      |
+| implication       | n.     | 暗示，暗指，含义；牵连                                         |      |
+| implicit          | a.     | 暗示的；盲从的；含蓄的                                         |      |
+| imply             | vt.    | 意指，暗示                                                     |      |
+| import            | vt./n. | 输入，进口                                                     |      |
+|                   | n.     | （pl.）进口商品，进口物质                                      |      |
+| importance        | n.     | 重要，重要性                                                   |      |
+| important         | a.     | 重要的，重大的；有地位的，显要的                               |      |
+| impose            | vt.    | （on）征税，强加；以……欺骗；利用，施影响                       |      |
+| impossible        | a.     | 不可能的，做不到的                                             |      |
+| impractical       | a.     | 不切实际的，不现实的；不能实行的                               |      |
+| impress           | vt.    | （on）印，盖印；留下印象                                       |      |
+| impression        | n.     | 印象，感想；印记                                               |      |
+| impressive        | a.     | 给人印象深刻的，感人的                                         |      |
+| imprison          | vt.    | 监禁；关押；使……下狱                                           |      |
+| impromptu         | ad.    | 即席地                                                         |      |
+|                   | a.     | 即席的                                                         |      |
+| improve           | vt.    | 改善，改进                                                     |      |
+|                   | vi.    | 好转，进步                                                     |      |
+| improvement       | n.     | 改进，改良，增进；改进措施                                     |      |
+| impulse           | n.     | 冲动；脉冲；刺激；推动力                                       |      |
+| in                | prep.  | 【表示地点、场所、位置】在……里，在……中                         |      |
+|                   |        | 【表示时间】在……期间，在……以后                                 |      |
+|                   |        | 【表示工具、方式】以……方式                                     |      |
+|                   |        | 【表示状态、情况】在……中，处于                                 |      |
+|                   |        | 【表示范围、领域、方向】在……之内，在……方面                     |      |
+|                   | ad.    | 向里，向内；在家里，屋里                                       |      |
+| inaugurate        | vt.    | 举行开幕典礼；举行就职典礼                                     |      |
+| inborn            | a.     | 天生的；先天的                                                 |      |
+| incentive         | n.     | 动机；刺激                                                     |      |
+| inch              | n.     | 英寸                                                           |      |
+| incident          | n.     | 事件，政治事件，事变                                           |      |
+| incline           | v.     | 使认为，使倾向；使倾斜，使偏向                                 |      |
+|                   | n.     | 斜坡，斜面                                                     |      |
+| include           | vt.    | 包含，包括，计入                                               |      |
+| inclusive         | a.     | 包括的，包含的                                                 |      |
+| income            | n.     | 收入，所得，进款                                               |      |
+| incompatible      | a.     | 矛盾的；不相容的                                               |      |
+| incorporate       | vt.    | 包含，吸收；体现                                               |      |
+|                   | vi.    | 合并；组成一体                                                 |      |
+| increase          | v./n.  | 增加，增长，增进                                               |      |
+| increasingly      | ad.    | 日益，越来越多地                                               |      |
+| incredible        | a.     | 【口】难以置信的                                               |      |
+| incur             | vt.    | 招致，引发；蒙受                                               |      |
+| indeed            | ad.    | 的确，确实                                                     |      |
+| independence      | n.     | 独立，自立，自主                                               |      |
+| independent       | a.     | 独立的，自立的，自主的                                         |      |
+| index             | n.     | 索引；指标，指数                                               |      |
+| India             | n.     | 印度                                                           |      |
+| Indian            | a.     | 印度（人）的，印第安人的                                       |      |
+|                   | n.     | 印度人，印第安人                                               |      |
+| indicate          | vt.    | 指示，表示；暗示                                               |      |
+| indication        | n.     | 指示，表示；暗示                                               |      |
+| indifferent       | a.     | 漠不关心的，冷漠的                                             |      |
+| indifference      | a.     | 不关心的；不在乎的；中立的；冷淡的                             |      |
+| indignant         | a.     | 义愤的；愤愤不平的                                             |      |
+| indispensable     | a.     | 不可缺少的；绝对必要的                                         |      |
+| indirect          | a.     | 间接的，迂回的                                                 |      |
+| individual        | n.     | 个人，个体                                                     |      |
+|                   | a.     | 个别，单独的；独特的                                           |      |
+| indoor（s）       | a./ad. | 室内（的），户内（的）                                         |      |
+| induce            | vt.    | 引诱；感应                                                     |      |
+| indulge           | vt.    | 满足；使沉迷于……；使高兴；纵容                                 |      |
+|                   | vi.    | （in）满足；沉溺；放任                                         |      |
+| industrial        | a.     | 工业的，产业的                                                 |      |
+| industrialization | n.     | 工业化                                                         |      |
+| industry          | n.     | 工业，产业                                                     |      |
+| inertia           | n.     | 惯性；惰性                                                     |      |
+| inevitable        | a.     | 必然的，不可避免的                                             |      |
+| infant            | n.     | 婴儿，幼儿                                                     |      |
+| infect            | vt.    | 传染，感染                                                     |      |
+| infection         | n.     | 感染；传染；传染病                                             |      |
+| infectious        | a.     | 传染的；易传染的                                               |      |
+| infer             | vt.    | （from）推论，推断                                             |      |
+| inference         | n.     | 推论；推断；推理                                               |      |
+| inferior          | a.     | （to）次的，低劣的；下级的，低等的                             |      |
+| infinite          | a.     | 无限的，无穷的                                                 |      |
+| inflation         | n.     | 通货膨胀                                                       |      |
+| influence         | vt./n. | （on）影响，感化                                               |      |
+|                   | n.     | 势力，权势                                                     |      |
+| influential       | a.     | 有影响的，有势力的                                             |      |
+| influenza         | n.     | 流行性感冒                                                     |      |
+| inform            | vt.    | （of）通知，告诉，报告；告发，告密                             |      |
+| information       | n.     | 信息，资料，情报                                               |      |
+| ingredient        | n.     | 成分，因素                                                     |      |
+| inhabit           | vt.    | 居住于；栖息                                                   |      |
+| inhabitant        | n.     | 居民，住户                                                     |      |
+| inherit           | vt.    | 继承                                                           |      |
+| initial           | a.     | 最初的，开头的                                                 |      |
+|                   | n.     | 首字母                                                         |      |
+| initiate          | vt.    | 开始，创始；发起                                               |      |
+| initiative        | n.     | 主动权；首创精神                                               |      |
+|                   | a.     | 起始的；主动的；自发的                                         |      |
+| inject            | vt.    | 注射；注入                                                     |      |
+| injection         | n.     | 注射，注入，喷射                                               |      |
+| injure            | vt.    | 损害，损伤，伤害                                               |      |
+| injury            | n.     | 损伤，伤害，毁坏                                               |      |
+| ink               | n.     | 墨水                                                           |      |
+| inland            | a.     | 内陆的；国内的；内地的                                         |      |
+|                   | ad.    | 向内地；在内地；向内陆；在内陆                                 |      |
+| inn               | n.     | 旅店，客栈                                                     |      |
+| inner             | a.     | 内部的，里面的；b内心的                                        |      |
+| innocence         | n.     | 清白，无罪；天真无邪                                           |      |
+| innocent          | a.     | 无罪的，清白的；无害的；天真的，单纯的                         |      |
+| innovate          | vi.    | 创新，改革                                                     |      |
+| innovation        | n.     | 创新，改革                                                     |      |
+| innumerable       | a.     | 无数的，数不清的                                               |      |
+| input             | n.     | 输入                                                           |      |
+| inquire/enquire   | v.     | （about/into）询问，问明，查究                                 |      |
+| inquiry/enquiry   | n.     | （about/into）质询，调查                                       |      |
+| insane            | a.     | 精神病的；极愚蠢的；疯狂的                                     |      |
+| insect            | n.     | 虫，昆虫                                                       |      |
+| insert            | vt.    | 插入                                                           |      |
+| inside            | prep.  | 在……里，在……内                                                 |      |
+|                   | a.     | 内部的，里面的，内幕的                                         |      |
+|                   | ad.    | 在内部，在里面                                                 |      |
+|                   | n.     | 内部，里面，内侧                                               |      |
+| insight           | n.     | 洞察力；洞悉                                                   |      |
+| insist            | vi.    | （on/upon）坚持，坚决主张，强烈要求                            |      |
+|                   | vt.    | 坚持，坚决主张，坚决认为                                       |      |
+| inspect           | vt.    | 检查，调查，视察                                               |      |
+| inspiration       | n.     | 灵感                                                           |      |
+| inspire           | vt.    | 使产生灵感；鼓舞，感动                                         |      |
+| install           | vt.    | 设置，安装                                                     |      |
+| installation      | n.     | 安装，设置                                                     |      |
+| install（l）ment  | n.     | 分期付款；部分；就职；安装                                     |      |
+| instance          | n.     | 例，例证，实例                                                 |      |
+| instant           | a.     | 立刻的，立即的；紧急的，迫切的；（食品）速溶的，方便的         |      |
+|                   | n.     | 瞬间，时刻                                                     |      |
+| instead           | ad.    | 代替，顶替；反而，却                                           |      |
+| instinct          | n.     | 本能，直觉；天性                                               |      |
+| institute         | n.     | 学会，研究所，学院                                             |      |
+| institution       | n.     | 公共机关，协会，学校；制度，习俗                               |      |
+| institutional     | a.     | 制度的；制度上的                                               |      |
+| instruct          | vt.    | 教，教授；指示，指令                                           |      |
+| instruction       | n.     | （pl.）指令，指示，说明；教学，教导                            |      |
+| instrument        | n.     | 工具，仪器；乐器                                               |      |
+| insulate          | vt.    | 隔离，使孤立；使绝缘                                           |      |
+| insult            | vt./n. | 侮辱，凌辱                                                     |      |
+| insurance         | n.     | 保险，保险费                                                   |      |
+| insure            | vt.    | 保险，替……保险；保证                                           |      |
+| insurgent         | a.     | 起义的；叛乱的                                                 |      |
+|                   | n.     | 叛乱者；起义者                                                 |      |
+| intact            | a.     | 完整的；原封不动的；未受损伤的                                 |      |
+| integral          | a.     | 完整的，整体的                                                 |      |
+| integrate         | vt.    | 使结合，使一体化                                               |      |
+|                   | a.     | 完整的，综合的                                                 |      |
+| integrity         | n.     | 正直，诚实；完整，完全，完整性                                 |      |
+| intellect         | n.     | 智力；有才智的人；知识分子                                     |      |
+| intellectual      | a.     | 智力的；聪明的；理智的                                         |      |
+|                   | n.     | 知识分子                                                       |      |
+| intelligence      | n.     | 智力，理解力；情报，消息，报导                                 |      |
+| intelligent       | a.     | 聪明的，理智的                                                 |      |
+| intelligible      | a.     | 可理解的；明了的                                               |      |
+| intend            | vt.    | 想要，打算，企图                                               |      |
+| intense           | a.     | 强烈的，激烈的，热烈的                                         |      |
+| intensify         | vi.    | 增强，强化；变激烈                                             |      |
+|                   | vt.    | 使加强，使强化；使变激烈                                       |      |
+| intensity         | n.     | 强烈，剧烈，强度，亮度                                         |      |
+| intensive         | a.     | 集中的；加强的                                                 |      |
+| intention         | n.     | 意图，意向，目的                                               |      |
+| interact          | vi.    | 相互作用/影响                                                  |      |
+| interaction       | n.     | 交互作用，交感                                                 |      |
+| interest          | n.     | 兴趣，关心，注意；（pl.）利益；利息，利率                      |      |
+|                   | vt.    | 使发生兴趣                                                     |      |
+| interesting       | a.     | 有趣，引人入胜的                                               |      |
+| interfere         | vi.    | （in，with）干涉，干扰，妨碍                                   |      |
+| interference      | n.     | 冲突，干涉                                                     |      |
+| interim           | a.     | 临时的，暂时的；中间的；间歇的                                 |      |
+|                   | n.     | 过渡时期，中间时期                                             |      |
+| interior          | n.     | 内部，内地                                                     |      |
+|                   | a.     | 内部的，里面的；内地的                                         |      |
+| intermediate      | a.     | 中间的，居中的                                                 |      |
+|                   | n.     | 中间体，媒介物                                                 |      |
+| internal          | a.     | 内的，内部的；国内的，内政的                                   |      |
+| international     | a.     | 国际的，世界的                                                 |      |
+| Internet          | n.     | 因特网，互联网                                                 |      |
+| interpret         | vt.    | 口译，翻译；解释，说明                                         |      |
+| interpretation    | n.     | 解释，阐明                                                     |      |
+| interpreter       | n.     | 译员，口译者                                                   |      |
+| interrogation     | n.     | 审问；讯问                                                     |      |
+| interrupt         | vt.    | 打断，打扰；断绝，中断                                         |      |
+| interruption      | n.     | 打断，干扰；中断                                               |      |
+| interval          | n.     | 间隔，间歇                                                     |      |
+| intervene         | vi.    | 干涉；调停                                                     |      |
+| interview         | n.     | 接见，会见，面试                                               |      |
+|                   | vt.    | 接见，会见                                                     |      |
+| intimate          | a.     | 亲密的，密切的                                                 |      |
+| intimidate        | vt.    | 恐吓，威胁                                                     |      |
+| into              | prep.  | 到……里，进入；成为                                             |      |
+| intolerant        | a.     | 无法忍受的                                                     |      |
+| intricate         | a.     | 复杂的；错综的                                                 |      |
+| intrinsic         | a.     | 本质的，固有的                                                 |      |
+| introduce         | vt.    | 介绍；引进，传入；提出                                         |      |
+| introduction      | n.     | 介绍，引进，传入；引论，导言，绪论；入门                       |      |
+| intuition         | n.     | 直觉；直觉的知识；直觉力                                       |      |
+| invade            | vt.    | 侵入，侵略，侵害                                               |      |
+| invalid           | a.     | 无效的；有病的；残废的                                         |      |
+|                   | n.     | 病人；残废者                                                   |      |
+| invaluable        | a.     | 无价的；非常贵重的                                             |      |
+| invasion          | n.     | 侵入，侵略                                                     |      |
+| invent            | vt.    | 发明，创造；捏造，虚构                                         |      |
+| invention         | n.     | 发明，创造；捏造，虚构                                         |      |
+| inventive         | a.     | 发明的，有发明才能的                                           |      |
+| inventory         | n.     | 存货，库存量；财产等的清单                                     |      |
+| invert            | vt.    | 使……转化；使……颠倒                                             |      |
+| invest            | v.     | （in）投资，投入                                               |      |
+| investigate       | vt.    | （into）调查，调研                                             |      |
+| investment        | n.     | 投资，投资额                                                   |      |
+| invisible         | a.     | 看不见的，无形的                                               |      |
+| invitation        | n.     | 请柬；邀请，招待                                               |      |
+| invite            | vt.    | 邀请，招待                                                     |      |
+| invoice           | n.     | 发票；发货单                                                   |      |
+| involve           | vt.    | （in）卷入，陷入，连累；包含，含有                             |      |
+| inward（s）       | a.     | 内心的，内向的                                                 |      |
+| iron              | n.     | 铁；烙铁，熨斗                                                 |      |
+|                   | v.     | 熨平，熨（衣）                                                 |      |
+| irony             | n.     | 讽刺；反语                                                     |      |
+| irrational        | a.     | 无理性的；不合理的                                             |      |
+| irregular         | a.     | 不规则的；无规律的                                             |      |
+| irrigate          | vt.    | 灌溉，修水利                                                   |      |
+|                   | vi.    | 进行灌溉                                                       |      |
+| irritate          | vt.    | 激怒；刺激，使兴奋                                             |      |
+|                   | vi.    | 引起恼怒，引起不愉快                                           |      |
+| Islam             | n.     | 伊斯兰教，回教                                                 |      |
+| island            | n.     | 岛，岛屿                                                       |      |
+| isle              | n.     | 小岛                                                           |      |
+| isolate           | vt.    | 隔离，孤立                                                     |      |
+| issue             | n.     | 问题，论点，争端；发行，发行物                                 |      |
+|                   | vt.    | 发行，发布                                                     |      |
+| it                | pron.  | 它                                                             |      |
+|                   |        | 【作无人称动词的主语，指天气、时间、距离等】                   |      |
+|                   |        | 【作先行代词，引导从句或短语等】                               |      |
+|                   |        | 【作先行代词，用以构成强调句型】                               |      |
+| italic            | n.     | 斜体字（或字母、数码等）                                       |      |
+|                   | a.     | 斜体的                                                         |      |
+| Italian           | a.     | 意大利（人/语）的                                              |      |
+|                   | n.     | 意大利人/语                                                    |      |
+| item              | n.     | 条，项目，条款；一则（新闻）                                   |      |
+| its               | pron.  | 它的                                                           |      |
+| itself            | pron.  | 它自己，它本身                                                 |      |
