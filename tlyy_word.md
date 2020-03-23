@@ -3979,40 +3979,228 @@
 | ozone                | n.        | 臭氧                                                         |      |
 
 # P  
-| 词汇      | 词性 | 中文释义                                     | 附录 |
-|-----------|------|----------------------------------------------|------|
-| pace      | n.   | （一）步，步子；步速，速度                   |      |
-| Pacific   | a.   | 太平洋的                                     |      |
-|           | n.   | 【the ~】太平洋                              |      |
-| pack      | vt.  | 包装，打包；塞满，挤满                       |      |
-|           | n.   | （一）包，（一）群，（一）幅                 |      |
-| package   | n.   | 包装，包裹，箱；一揽子交易（或计划、建议等） |      |
-| packet    | n.   | 包，盒                                       |      |
-| pact      | n.   | 条约；协定；契约；公约                       |      |
-| pad       | n.   | 垫，衬垫；便笺本，拍纸簿                     |      |
-| page      | n.   | 页                                           |      |
-| pain      | n.   | 痛苦，疼痛；（pl.）努力，劳苦                |      |
-| painful   | a.   | 痛苦的，疼痛的；困难，令人不快的             |      |
-| paint     | v.   | 涂，漆；画；绘，描述                         |      |
-|           | n.   | 油漆，颜料                                   |      |
-| painter   | n.   | 画家；油漆工                                 |      |
-| painting  | n.   | （一幅）油画，绘画；画法；（上）油漆         |      |
-| pair      | n.   | （一）对，（一）双，（一）副；一对男女/夫妇  |      |
-|           | v.   | 配对，成对                                   |      |
-| palace    | n.   | 宫殿                                         |      |
-| pale      | a.   | 苍白的；浅的，淡的                           |      |
-| palm      | n.   | 手掌                                         |      |
-| pamphlet  | n.   | 小册子                                       |      |
-| pan       | n.   | 平底锅                                       |      |
-| panda     | n.   | 熊猫；猫熊                                   |      |
-| panel     | n.   | 专门小组；面板；控制板，仪表盘               |      |
-| panic     | n.   | 惊慌，恐慌                                   |      |
-|           | a.   | 恐慌的，惊慌的                               |      |
-| pants     | n.   | 裤子，衬裤                                   |      |
-| paper     | n.   | 纸；报纸；（pl.）文件；论文，文章；试卷      |      |
-| paperback | n.   | 平装本                                       |      |
-| paperwork | n.   | 文书工作                                     |      |
-| parachute | n.   | 降落伞                                       |      |
-| parade    | n.   | 游行，检阅                                   |      |
-|           | v.   | 游行                                         |      |
-| paradise  | n.   | 天堂                                         |      |
+| 词汇           | 词性    | 中文释义                                             | 附录 |
+|----------------|---------|------------------------------------------------------|------|
+| pace           | n.      | （一）步，步子；步速，速度                           |      |
+| Pacific        | a.      | 太平洋的                                             |      |
+|                | n.      | 【the ~】太平洋                                      |      |
+| pack           | vt.     | 包装，打包；塞满，挤满                               |      |
+|                | n.      | （一）包，（一）群，（一）幅                         |      |
+| package        | n.      | 包装，包裹，箱；一揽子交易（或计划、建议等）         |      |
+| packet         | n.      | 包，盒                                               |      |
+| pact           | n.      | 条约；协定；契约；公约                               |      |
+| pad            | n.      | 垫，衬垫；便笺本，拍纸簿                             |      |
+| page           | n.      | 页                                                   |      |
+| pain           | n.      | 痛苦，疼痛；（pl.）努力，劳苦                        |      |
+| painful        | a.      | 痛苦的，疼痛的；困难，令人不快的                     |      |
+| paint          | v.      | 涂，漆；画；绘，描述                                 |      |
+|                | n.      | 油漆，颜料                                           |      |
+| painter        | n.      | 画家；油漆工                                         |      |
+| painting       | n.      | （一幅）油画，绘画；画法；（上）油漆                 |      |
+| pair           | n.      | （一）对，（一）双，（一）副；一对男女/夫妇          |      |
+|                | v.      | 配对，成对                                           |      |
+| palace         | n.      | 宫殿                                                 |      |
+| pale           | a.      | 苍白的；浅的，淡的                                   |      |
+| palm           | n.      | 手掌                                                 |      |
+| pamphlet       | n.      | 小册子                                               |      |
+| pan            | n.      | 平底锅                                               |      |
+| panda          | n.      | 熊猫；猫熊                                           |      |
+| panel          | n.      | 专门小组；面板；控制板，仪表盘                       |      |
+| panic          | n.      | 惊慌，恐慌                                           |      |
+|                | a.      | 恐慌的，惊慌的                                       |      |
+| pants          | n.      | 裤子，衬裤                                           |      |
+| paper          | n.      | 纸；报纸；（pl.）文件；论文，文章；试卷              |      |
+| paperback      | n.      | 平装本                                               |      |
+| paperwork      | n.      | 文书工作                                             |      |
+| parachute      | n.      | 降落伞                                               |      |
+| parade         | n.      | 游行，检阅                                           |      |
+|                | v.      | 游行                                                 |      |
+| paradise       | n.      | 天堂                                                 |      |
+| paradox        | n.      | 似非而是的论点；悖论，反论；自相矛盾的人或事         |      |
+| paragraph      | n.      | 段，节                                               |      |
+| parallel       | a.      | 与……平行的；并列的；类似的                           |      |
+|                | n.      | 平行线；纬线；可相比拟的事物；相似处                 |      |
+| paralyze/-yse  | vt.     | 使麻痹；使瘫痪                                       |      |
+| parameter      | n.      | 参数；参量；系数                                     |      |
+| parasite       | n.      | 食客；寄生虫                                         |      |
+| parcel         | n.      | 包裹，邮包                                           |      |
+|                | vt.     | 打包                                                 |      |
+| pardon         | n.      | 原谅，请再说一遍                                     |      |
+|                | vt.     | 原谅，饶恕，豁免                                     |      |
+| parent         | n.      | 父母                                                 |      |
+| park           | n.      | 公园，停车场                                         |      |
+|                | v.      | 停放（汽车等）                                       |      |
+| parliament     | n.      | 国会，议会                                           |      |
+| part           | n.      | 部分，份儿；角色，作用；一方；零件                   |      |
+|                | v.      | （使）分开，分离，分别                               |      |
+| partial        | a.      | 部分的，局部的；偏爱的，不公平的                     |      |
+| participant    | n.      | 参与者；关系者                                       |      |
+| participate    | vi.     | （in）参与，参加                                     |      |
+| particle       | n.      | 粒子，微粒                                           |      |
+| particular     | a.      | 特别的，特殊的；特定的，个别的；（过分）讲究，挑剔的 |      |
+|                | n.      | （pl.）细节，详情                                    |      |
+| particularly   | ad.     | 特别地，尤其地                                       |      |
+| partly         | ad.     | 在一定程度上，部分地，不完全地                       |      |
+| partner        | n.      | 伙伴，合伙人，舞伴；配偶，搭档                       |      |
+| party          | n.      | 党，政党；聚会；一方，当事人                         |      |
+| pass           | v.      | 经过，走过；通过，穿过；传，传递；度；通过（考试等） |      |
+|                | n.      | 通行证，护照；关隘；考试及格                         |      |
+| passage        | n.      | 通过，经过；通路，走廊；段，节                       |      |
+| passenger      | n.      | 乘客，旅客                                           |      |
+| passion        | n.      | 热情，激情；酷爱                                     |      |
+| passive        | a.      | 被动的，消极的                                       |      |
+| passport       | n.      | 护照                                                 |      |
+| password       | n.      | 密码；口令                                           |      |
+| past           | a.      | 过去的                                               |      |
+|                | n.      | 过去，昔时，往事                                     |      |
+|                | prep.   | 过，经过                                             |      |
+| paste          | n.      | 糨糊                                                 |      |
+|                | v.      | 贴，粘                                               |      |
+| pasture        | n.      | 牧场；牧草；草地                                     |      |
+| pat            | n./v.   | 轻拍                                                 |      |
+| patch          | n.      | 小片，小块，补丁                                     |      |
+|                | vt.     | 补，修补                                             |      |
+| patent         | n.      | 专利权，专利品                                       |      |
+|                | a.      | 特许的，专利的                                       |      |
+|                | vt.     | 取得……的专利权，请准专利                             |      |
+| path           | n.      | 小路，路线，途径                                     |      |
+| pathetic       | a.      | 可怜的，悲哀的；感伤的                               |      |
+| patience       | n.      | 耐心，忍耐                                           |      |
+| patient        | a.      | 有耐心的，能忍耐的                                   |      |
+|                | n.      | 病人，患者                                           |      |
+| patriotic      | a.      | 爱国的                                               |      |
+| patriotism     | n.      | 爱国心，爱国精神；爱国主义                           |      |
+| patrol         | n.      | 巡逻；巡逻队                                         |      |
+|                | vt./vi. | 巡逻；巡查                                           |      |
+| patron         | n.      | 赞助人；保护人                                       |      |
+| pattern        | n.      | 模式，样式；图案，花样                               |      |
+| pause          | n./v.   | 暂停，中止                                           |      |
+| pave           | vt.     | 铺砌，铺（路）                                       |      |
+| pavement       | n.      | 人行道                                               |      |
+| paw            | n.      | 爪                                                   |      |
+| pay            | v.      | 付款，缴纳；付清；给予，致以（问候），进行（访问）   |      |
+|                | n.      | 工资，薪饷；报酬                                     |      |
+| payment        | n.      | 支付，付款                                           |      |
+| pea            | n.      | 豌豆                                                 |      |
+| peace          | n.      | 和平；平静                                           |      |
+| peaceful       | a.      | 平静；爱好和平的                                     |      |
+| peach          | n.      | 桃，桃树                                             |      |
+| peak           | n.      | 峰，山峰；尖端，突出物                               |      |
+| peanut         | n.      | 花生                                                 |      |
+| pear           | n.      | 梨，梨树                                             |      |
+| peasant        | n.      | 农民                                                 |      |
+| peculiar       | a.      | 特殊的，独特的；古怪的                               |      |
+| pedal          | vi.     | 踩踏板                                               |      |
+| pedestrian     | n.      | 行人；步行者                                         |      |
+| peel           | vt.     | 剥，剥落；削                                         |      |
+| peer           | n.      | 同等的人，贵族                                       |      |
+|                | vi.     | 凝视，窥视                                           |      |
+| pen            | n.      | 钢笔                                                 |      |
+| penalty        | n.      | 处罚；罚款，罚金                                     |      |
+| pencil         | n.      | 铅笔                                                 |      |
+| pendulum       | n.      | 钟摆                                                 |      |
+| penetrate      | vt.     | 穿透，渗入，看穿                                     |      |
+| penguin        | n.      | 企鹅                                                 |      |
+| peninsula      | n.      | 半岛                                                 |      |
+| penny          | n.      | 便士，一分                                           |      |
+| pension        | n.      | 抚恤金，养老金，年金                                 |      |
+| people         | n.      | 人，人们，人民；民族                                 |      |
+| pepper         | n.      | 胡椒粉，胡椒，辣椒                                   |      |
+| per            | prep.   | 每                                                   |      |
+| perceive       | vt.     | 察觉，感知；理解，领悟                               |      |
+| percent        | n.      | 百分之……                                             |      |
+| percentage     | n.      | 百分比                                               |      |
+| perception     | n.      | 感觉；知觉                                           |      |
+| perfect        | a.      | 完善的，完美的；完全的，十足的                       |      |
+|                | vt.     | 使完美，改进                                         |      |
+| perfection     | n.      | 完全，完美；完成，改善                               |      |
+| perform        | v.      | 做，施行，完成；表演，演出                           |      |
+| performance    | n.      | 表演，演出；执行，完成；工作情况，表现情况           |      |
+| perfume        | n.      | 香水                                                 |      |
+| perhaps        | ad.     | 也许，恐怕，大概                                     |      |
+| period         | n.      | 期间，一段时间；时期，时代                           |      |
+| periodic       | a.      | 周期的；定期的                                       |      |
+| periodical     | a.      | 周期的，定期的                                       |      |
+|                | n.      | 期刊，杂志                                           |      |
+| perish         | vi.     | 死亡；毁灭                                           |      |
+| permanent      | a.      | 永久的，持久的                                       |      |
+| permission     | n.      | 许可，允许                                           |      |
+| permit         | v.      | 允许，许可                                           |      |
+|                | n.      | 执照，许可证                                         |      |
+| perpetual      | a.      | 永久的                                               |      |
+| perplex        | vt.     | 使困惑，使为难                                       |      |
+| persecution    | n.      | 迫害                                                 |      |
+| persist        | vi.     | （in）坚持                                           |      |
+| person         | n.      | 人                                                   |      |
+| personal       | a.      | 个人的，私人的；本人的，亲自的                       |      |
+| personality    | n.      | 人格，个性                                           |      |
+| personnel      | n.      | 全体人员，全体职员；人事部门                         |      |
+| perspective    | n.      | 前景，前途；观点，看法；透视法                       |      |
+| persuade       | vt.     | 劝说，说服                                           |      |
+| persuasion     | n.      | 说服，说服力                                         |      |
+| persuasive     | a.      | 劝诱的，劝说的；有说服力的                           |      |
+| pervasive      | a.      | 普遍的；到处渗透的                                   |      |
+| pessimistic    | a.      | 悲观的，厌世的                                       |      |
+| pest           | n.      | 害虫；有害之物                                       |      |
+| pet            | n.      | 爱畜，宠儿                                           |      |
+|                | a.      | 宠爱，表示亲昵的                                     |      |
+| petition       | n.      | 请愿；祈求；请愿书                                   |      |
+| petrochemical  | a.      | 石化的                                               |      |
+| petrol         | n.      | 汽油                                                 |      |
+| petroleum      | n.      | 石油                                                 |      |
+| petty          | a.      | 不重要的，次要的；渺小的，褊狭的                     |      |
+| pharmacy       | n.      | 药房，药剂学，配药业，制药业                         |      |
+| phase          | n.      | 阶段，时期；相位                                     |      |
+| phenomenal     | a.      | 现象的；能知觉的；异常的；杰出的，惊人的             |      |
+| phenomenon     | n.      | 现象                                                 |      |
+| philosopher    | n.      | 哲学家，哲人                                         |      |
+| philosophy     | n.      | 哲学；人生哲学，见解，观点                           |      |
+| phoenix        | n.      | 凤凰                                                 |      |
+| phone          | n.      | 电话                                                 |      |
+|                | vt.     | 打电话                                               |      |
+| photo（graph） | n.      | 照片，相片                                           |      |
+| photocopy      | v./n.   | 影印，照相复印                                       |      |
+| photosynthesis | n.      | 光合作用                                             |      |
+| phrase         | n.      | 短语，词组，习语                                     |      |
+| physical       | a.      | 物质的，有形的；身体的；自然科学的，物理的           |      |
+| physician      | n.      | 内科医生                                             |      |
+| physicist      | n.      | 物理学家                                             |      |
+| physics        | n.      | 物理学                                               |      |
+| physiology     | n.      | 生理学                                               |      |
+| pianist        | n.      | 钢琴家；钢琴演奏者                                   |      |
+| piano          | n.      | 钢琴                                                 |      |
+| pick           | v.      | 拾，采，摘；挑选                                     |      |
+|                | n.      | 稿                                                   |      |
+| picnic         | n.      | 郊游，野餐                                           |      |
+|                | vi.     | （去）野餐                                           |      |
+| picture        | n.      | 画，图片；照片；电影                                 |      |
+|                | vt.     | 想象，描述                                           |      |
+| pie            | n.      | 馅饼                                                 |      |
+| piece          | n.      | （一）件，（一）片，（一）篇；碎块，片断             |      |
+|                | vt.     | 拼合，修补                                           |      |
+| pierce         | vt.     | 刺穿，刺破，穿透；突破，深深感动                     |      |
+| pig            | n.      | 猪                                                   |      |
+| pigeon         | n.      | 鸽子                                                 |      |
+| pile           | n.      | 堆                                                   |      |
+|                | v.      | 堆，迭，堆积                                         |      |
+| pilgrim        | n.      | 朝圣者                                               |      |
+| pill           | n.      | 药丸                                                 |      |
+| pillar         | n.      | 柱子，柱形物；栋梁                                   |      |
+| pillow         | n.      | 枕头                                                 |      |
+| pilot          | n.      | 驾驶员，飞行员；领航员                               |      |
+|                | v.      | 驾驶（飞机等）；领航                                 |      |
+| pin            | n.      | 大头针；别针；销，栓                                 |      |
+|                | vt.     | 钉住，别住                                           |      |
+| pinch          | v./n.   | 拧，捏                                               |      |
+| pine           | n.      | 松树                                                 |      |
+| pink           | n.      | 粉红色                                               |      |
+| pint           | n.      | 品脱                                                 |      |
+| pioneer        | n.      | 先驱，先锋，开拓者                                   |      |
+|                | vt.     | 开拓，开创                                           |      |
+| pipe           | n.      | 管子，导管；烟斗；笛                                 |      |
+| pistol         | n.      | 手枪                                                 |      |
+| pit            | n.      | 坑，窖                                               |      |
+| pitch          | vt.     | 投，掷                                               |      |
+| pity           | vt./n.  | 怜悯，惋惜                                           |      |
+|                | n.      | 可惜的事，憾事                                       |      |
+| pizza          | n.      | 披萨饼                                               |      |
