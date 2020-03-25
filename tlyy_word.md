@@ -4330,3 +4330,218 @@
 | poverty        | n.      | 贫穷，贫困                                                 |      |
 | powder         | n.      | 粉末，药粉；火药                                           |      |
 | power          | n.      | 力，能力，精力；权力，势力，政权；功率，动力，电力；乘方   |      |
+| powerful       | a.      | 强大的，有力的，有权的                                     |      |
+| practical      | a.      | 实际的，实用的                                             |      |
+| practically    | ad.     | 几乎，实际上                                               |      |
+| practice/-tise | n.      | 实践，实施；练习，实习；业务，开业                         |      |
+|                | v.      | 实践，实行；练习，实习；开业，从事                         |      |
+| praise         | v.      | 称赞，表扬                                                 |      |
+|                | n.      | 称赞，赞美                                                 |      |
+| pray           | v.      | 祈祷，祈求；请求，恳求                                     |      |
+| prayer         | n.      | 祈祷，祷告，祷文                                           |      |
+| precaution     | n.      | 预防，警惕；预防措施                                       |      |
+|                | vt.     | 预先警告；警惕                                             |      |
+| precede        | vt.     | 领先，在……之前；优于，高于                                 |      |
+|                | vi.     | 领先，在前面                                               |      |
+| precedent      | n.      | 先例；前例                                                 |      |
+|                | a.      | 在前的；在先的                                             |      |
+| preceding      | a.      | 在前的；前述的                                             |      |
+| precious       | a.      | 珍贵的，贵重的                                             |      |
+| precise        | a.      | 精确的，准确的                                             |      |
+| precision      | n.      | 精确；精度，精密度                                         |      |
+| predecessor    | n.      | 前任，前辈                                                 |      |
+| predict        | v.      | 预言，预测                                                 |      |
+| predominant    | a.      | 卓越的；有力的；支配的                                     |      |
+| preface        | n.      | 前言，序言，引言                                           |      |
+| prefer         | vt.     | （to）更喜欢，宁愿                                         |      |
+| preferable     | a.      | 更好的，更可取的；更合意的                                 |      |
+| preference     | n.      | 偏爱，倾向；优先权                                         |      |
+| pregnant       | a.      | 怀孕的；重要的，富有意义的；孕育的                         |      |
+| prejudice      | n.      | 偏见，成见；损害，侵害                                     |      |
+| preliminary    | a.      | 预备的；初步的                                             |      |
+| premature      | a.      | 比预期早的；不成熟的；早产的                               |      |
+| premier        | n.      | 首相，总理                                                 |      |
+|                | a.      | 第一的；最初的                                             |      |
+| premise        | n.      | 前提                                                       |      |
+| premium        | n.      | 奖赏，奖金/品，佣金                                        |      |
+|                |         | （利息、工资等以外的）酬金；额外的费用                     |      |
+| preparation    | n.      | 准备，预备；制剂，制备品                                   |      |
+| prepare        | v.      | 准备，预备；制作，制备                                     |      |
+| preposition    | n.      | 介词，前置词                                               |      |
+| prescribe      | v.      | 开处方，开药；规定，指示                                   |      |
+| prescription   | n.      | 药方，处方                                                 |      |
+| presence       | n.      | 出席，在场；存在                                           |      |
+| present        | v.      | 赠送，给予；提出，呈递，出示；介绍，引见                   |      |
+|                | a.      | 出席的，在场的；目前的，现在的                             |      |
+|                | n.      | 目前，现在；礼物，礼品                                     |      |
+| presentation   | n.      | 介绍，陈述；表现形式                                       |      |
+| presenter      | n.      | 主持人，报幕员；赠与者，提出者                             |      |
+| presently      | ad.     | 不久，一会儿；现在，目前                                   |      |
+| preservation   | n.      | 保存，保留                                                 |      |
+| preserve       | vt.     | 保护，保存；保藏，腌制；维持，保持                         |      |
+| president      | n.      | 主席，总统，校长，会长；总裁；董事长                       |      |
+| press          | vt.     | 压，挤，按；催促                                           |      |
+|                | n.      | 压，挤，按；报刊，出版界/社；压机，压榨机，印刷机          |      |
+| pressure       | n.      | 压力，紧张；强制；压强                                     |      |
+|                | vt.     | 迫使                                                       |      |
+| prestige       | n.      | 威望，声望；声誉                                           |      |
+| presume        | vt.     | 假定；推测                                                 |      |
+|                | vi.     | 相信                                                       |      |
+| pretend        | v.      | 假装，假托                                                 |      |
+| pretty         | a.      | 漂亮，俊俏                                                 |      |
+|                | ad.     | 相当地                                                     |      |
+| prevail        | vi.     | 取胜，占优势；流行，盛行                                   |      |
+| prevalent      | a.      | 流行的；普通的                                             |      |
+| prevent        | vt.     | （from）预防，防止                                         |      |
+| prevention     | n.      | 预防，防止                                                 |      |
+| previous       | a.      | 先，前，以前的                                             |      |
+| price          | n.      | 价格，价钱；代价                                           |      |
+|                | vt.     | 标价                                                       |      |
+| pride          | n.      | 骄傲，自豪，自满；自尊心；引以为豪的东西                   |      |
+|                | vt.     | 使自豪，使自夸                                             |      |
+| priest         | n.      | 牧师                                                       |      |
+| primarily      | ad.     | 首先，起初；主要地；根本上                                 |      |
+| primary        | a.      | 首要的，主要的，基本的；最初的，初级的                     |      |
+| prime          | a.      | 基本的；最好的；主要的                                     |      |
+|                | n.      | 全盛时期；初期；青年                                       |      |
+| primitive      | a.      | 原始的，远古的；粗糙的，简单的                             |      |
+| prince         | n.      | 王子，亲王                                                 |      |
+| princess       | n.      | 公主，王妃                                                 |      |
+| principal      | a.      | 最重要的，主要的，首要的                                   |      |
+|                | n.      | 负责人，校长；资本，本金                                   |      |
+| principle      | n.      | 原理，原则；主义，信念                                     |      |
+| print          | v.      | 打印，印刷；出版；用印刷体写                               |      |
+|                | n.      | 印刷品，字体                                               |      |
+| printer        | n.      | 打印机                                                     |      |
+| prior          | a.      | 优先的；在前的                                             |      |
+| priority       | n.      | 优先；优先权                                               |      |
+| prison         | n.      | 监狱                                                       |      |
+| prisoner       | n.      | 囚徒                                                       |      |
+| privacy        | n.      | 秘密；隐私                                                 |      |
+| private        | a.      | 私人的，私有的，私立的；秘密的，私下的                     |      |
+| privilege      | n.      | 优惠，特许，特权                                           |      |
+|                | vt.     | 给予优惠，给予特权                                         |      |
+| privileged     | a.      | 有特别恩典的；享有特权的                                   |      |
+| prize          | n.      | 奖，奖金，奖品                                             |      |
+|                | vt.     | 珍视，珍惜                                                 |      |
+| probability    | n.      | 可能性；概率                                               |      |
+| probable       | a.      | 有希望的，可能的；也许，大概                               |      |
+| probably       | ad.     | 或许，大概，很可能                                         |      |
+| probe          | n.      | 探针，探测器                                               |      |
+|                | vt.     | 穿刺；探查，查究，调查                                     |      |
+| problem        | n.      | 问题，难题                                                 |      |
+| procedure      | n.      | 程序，手续                                                 |      |
+| proceed        | vi.     | 继续进行                                                   |      |
+| proceeding     | n.      | 进行；程序；事项；诉讼                                     |      |
+| process        | n.      | 过程，历程；工序，工艺                                     |      |
+|                | vt.     | 加工，处理                                                 |      |
+| proclaim       | vt.     | 声明；宣告，公布                                           |      |
+| produce        | vt.     | 生产，制造，产生；显示，出示；上演，演出                   |      |
+|                | n.      | 农产品                                                     |      |
+| product        | n.      | 产品，产物；乘积                                           |      |
+| production     | n.      | 生产，产量；产品，作品                                     |      |
+| productive     | a.      | 生产性的，生产的；能产的，多产的                           |      |
+| productivity   | n.      | 生产力；生产率                                             |      |
+| profession     | n.      | 职业，自由职业                                             |      |
+| professional   | a.      | 职业的，专门的                                             |      |
+|                | n.      | 专业人员                                                   |      |
+| professor      | n.      | 教授                                                       |      |
+| proficiency    | n.      | 精通，熟练                                                 |      |
+| profit         | n.      | 收益，利润，益处                                           |      |
+|                | v.      | 得利，获益                                                 |      |
+| profitable     | a.      | 有利可图，有益的                                           |      |
+| profound       | a.      | 深厚的；意义深远的                                         |      |
+| program（me）  | n.      | 计划，规划，大纲；节目，节目单；程序                       |      |
+|                | v.      | 编制程序                                                   |      |
+| progress       | n./vi.  | 前进，进步，进展                                           |      |
+| progressive    | a.      | 进步的，前进的，发展的                                     |      |
+| prohibit       | vt.     | 阻止，禁止                                                 |      |
+| project        | n.      | 计划，方案；工程，项目                                     |      |
+|                | vt.     | 设计，规划；投射；放映；使突出                             |      |
+| projector      | n.      | 投影仪，放映机，幻灯机                                     |      |
+| prolong        | vt.     | 拖延；延长                                                 |      |
+| prominent      | a.      | 突出的，显著的；杰出的；卓越的                             |      |
+| promise        | vt.     | 答应，允诺；有……可能，有希望                               |      |
+|                | n.      | 承诺，诺言；希望，出息                                     |      |
+| promising      | a.      | 有希望，有前途的                                           |      |
+| promote        | vt.     | 提升，晋升；促进，增进，助长                               |      |
+| promotion      | n.      | 升级，晋级；宣传，推广                                     |      |
+| prompt         | a.      | 敏捷的，迅速的，即刻的                                     |      |
+|                | vt.     | 促使，推动                                                 |      |
+| prone          | a.      | （to）有……倾向的，易于……的                                 |      |
+| pronoun        | n.      | 代名词                                                     |      |
+| pronounce      | v.      | 发音                                                       |      |
+| pronounciation | n.      | 发音；发音方法                                             |      |
+| proof          | n.      | 证明，证据                                                 |      |
+| propaganda     | n.      | 宣传                                                       |      |
+| propel         | vt.     | 推进；驱使                                                 |      |
+| proper         | a.      | 适当，恰当；特有的，固有的                                 |      |
+| property       | n.      | 财产，所有物；性质，特性                                   |      |
+| prophet        | n.      | 先知                                                       |      |
+| proportion     | n.      | 部分，份儿；比例，比重；均衡，相称                         |      |
+| proportionate  | a.      | （to）成比例的；相称的；适当的                             |      |
+| proposal       | n.      | 提议，建议；求婚                                           |      |
+| propose        | vt.     | 提议，建议；求婚                                           |      |
+| prose          | n.      | 散文                                                       |      |
+| prosecute      | vt.     | 实行，从事；告发，起诉                                     |      |
+|                | vi.     | 告发，起诉，作检察官                                       |      |
+| prospect       | n.      | 展望，前景                                                 |      |
+| prospector     | n.      | 采矿者；探勘者                                             |      |
+| prosperity     | n.      | 繁荣，兴旺                                                 |      |
+| prosperous     | a.      | 繁荣的，兴旺的                                             |      |
+| protect        | v.      | 保护，保卫                                                 |      |
+| protection     | n.      | 保护                                                       |      |
+| protective     | a.      | 保护的，防卫的                                             |      |
+| protein        | n.      | 蛋白质                                                     |      |
+| protest        | v./n.   | 抗议，反对                                                 |      |
+| prototype      | n.      | 原型                                                       |      |
+| proud          | a.      | 骄傲的，自豪的；引以为豪的                                 |      |
+| prove          | v.      | 证明，证实；检验，鉴定；结果是，表明是                     |      |
+| proverb        | n.      | 谚语，格言                                                 |      |
+| provide        | vt.     | 提供，供给                                                 |      |
+| provided       | conj.   | 倘若；假如                                                 |      |
+| province       | n.      | 省                                                         |      |
+| provision      | n.      | 供应；（一批）供应品；预备，防备；条款，规定               |      |
+| provocative    | a.      | 刺激的，挑拨的                                             |      |
+| provoke        | vt.     | 挑动，激发，招惹                                           |      |
+| prudent        | a.      | 小心的，审慎的；精明的；节俭的                             |      |
+| psychological  | a.      | 心理（上）的；心理学的                                     |      |
+| psychologist   | n.      | 心理学家                                                   |      |
+| psychology     | n.      | 心理学，心理                                               |      |
+| pub            | n.      | 酒吧，酒馆                                                 |      |
+| public         | a.      | 公共的，公用的；公众的；公开的，公然的                     |      |
+|                | n.      | 公众，大众                                                 |      |
+| publication    | n.      | 出版；出版物；公布                                         |      |
+| publicity      | n.      | 众所周知，闻名；宣传，广告                                 |      |
+| publicize      | vt.     | 宣传；公布                                                 |      |
+| publish        | vt.     | 发表，公布；出版                                           |      |
+| publisher      | n.      | 出版社；发行人                                             |      |
+| pudding        | n.      | 布丁                                                       |      |
+| pull           | v./n.   | 拉，拖，牵                                                 |      |
+| pulse          | n.      | 脉搏，脉冲                                                 |      |
+| pump           | n.      | 泵                                                         |      |
+|                | vt.     | 打气，泵送                                                 |      |
+| pumpkin        | n.      | 南瓜                                                       |      |
+| punch          | vt.     | 冲压，穿孔                                                 |      |
+|                | n.      | 冲压机，穿孔机                                             |      |
+| punctual       | a.      | 准时的，正点的                                             |      |
+| punctuate      | vt.     | 不时打断；强调；加标点于                                   |      |
+|                | vi.     | 加标点                                                     |      |
+| punish         | vt.     | 处罚，惩罚                                                 |      |
+| punishment     | n.      | 处罚，惩罚                                                 |      |
+| pupil          | n.      | 学生，小学生；瞳孔                                         |      |
+| purchase       | vt.     | 购买                                                       |      |
+|                | n.      | 购买；购买的东西                                           |      |
+| pure           | a.      | 纯的，纯洁的；抽象的，纯理论的；十足，完全                 |      |
+| purify         | vt.     | 净化；使纯净                                               |      |
+|                | vi.     | 变纯净；净化                                               |      |
+| purity         | n.      | 纯净；纯洁                                                 |      |
+| purple         | a./n.   | 紫色                                                       |      |
+| purpose        | n.      | 目的，意图；企图，打算                                     |      |
+| purse          | n.      | 钱包                                                       |      |
+| pursue         | vt.     | 追逐，追击；从事，进行                                     |      |
+| pursuit        | n.      | 追赶，追求                                                 |      |
+| push           | vt./n.  | 推；推进，促进；催促                                       |      |
+| put            | vt.     | 放，置；记下，写下；表达；使……进入（状态）                 |      |
+| puzzle         | n.      | 难题，谜，迷惑                                             |      |
+|                | vt.     | 使迷惑                                                     |      |
