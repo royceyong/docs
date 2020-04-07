@@ -322,4 +322,431 @@
 | hand down                          | 传下来，传给，往下递                     |
 | hand in                            | 交上，递交                               |
 | hand in hand                       | 手拉手；联合，连在一起                   |
+| hand on                            | 传下来，依次传递                         |
+| hand out                           | 分发，发给                               |
+| hand over                          | 交出，移交，让给                         |
+| in hand                            | 在掌握中；正在进行                       |
+| on the one hand                    | 一方面                                   |
+| on the other hand                  | 另一方面                                 |
+| hang about                         | 闲荡，徘徊，逗留                         |
+| hang on                            | 别挂（电话）；紧抓不放                   |
+| hang on to                         | 紧握住；坚持下去                         |
+| hang up                            | 挂断（电话）                             |
+| have to/have got to                | 不得不，必须；牢记……                     |
+| head for                           | 朝……走去                                 |
+| at heart                           | 在内心，实质上                           |
+| by heart                           | 牢记，凭记忆                             |
+| heart and soul                     | 全心全意                                 |
+| learn by heart                     | 记住，背下                               |
+| lose heart                         | 丧失勇气，失去信心                       |
+| can not help                       | 禁不住，忍不住                           |
+| help oneself                       | 自取所需（食物等）                       |
+| here and there                     | 到处，处处                               |
+| get hold of                        | 抓住，掌握                               |
+| hold back                          | 踌躇，退缩不前                           |
+| hold on                            | 稍后；别挂（电话）；坚持下去             |
+| hold on to                         | 紧紧抓住                                 |
+| hold out                           | 坚持，不屈服                             |
+| hold up                            | 举起，支撑，承载；阻挡，使停止           |
+| at home                            | 在家，在国内；自在，自如                 |
+| in hono（u）r of                   | 向……表敬意，为庆祝……，为纪念……           |
+| keep house                         | 管理家务                                 |
+| how about                          | 如何，……怎么样                           |
+| hurry up                           | 使赶快；迅速完成                         |
+| in a hurry                         | 匆忙，立即                               |
+| if only                            | 但愿，只要                               |
+| what if                            | 倘若……将会怎么样                         |
+| insist on/upon                     | 坚持，坚持认为                           |
+| for instance                       | 举例说，比如                             |
+| instead of                         | 代替                                     |
+| interfere in/with                  | 妨碍，阻碍，干扰；干涉                   |
+| by itself                          | 单独地，独自地                           |
+| keep back                          | 阻止，阻挡；隐瞒，保留                   |
+| keep down                          | 控制，压制，镇压；压低，放低（声音）     |
+| keep off                           | 不接近，避开                             |
+| keep on                            | 继续，保持                               |
+| keep out of                        | 躲开，置身……之外                         |
+| keep up                            | 继续，坚持；保持，维持                   |
+| keep up with                       | 跟上，不落后                             |
+| knock down                         | 撞倒，击倒                               |
+| knock out                          | 打昏，淘汰                               |
+| at large                           | 总的，一般；在逃                         |
+| at last                            | 最终，终于                               |
+| laugh at                           | 讥笑，嘲笑                               |
+| lay down                           | 放下；拟订；铺设                         |
+| lay off                            | （临时）解雇；休息                       |
+| lay out                            | 安排，布置，设计；摆开，陈列，展示       |
+| lead to                            | 通向；导致，引起                         |
+| at least                           | 最低限度                                 |
+| in the least                       | 一点，丝毫                               |
+| leave out                          | 省略，遗漏                               |
+| let down                           | 放下，降低；使失望                       |
+| let go                             | 放开，松手                               |
+| let in                             | 让……进入，放……进来                       |
+| let off                            | 放（炮、烟火），开枪                     |
+| let out                            | 放出，发出；放大（衣服）                 |
+| throw light on                     | 使……显得清楚；阐明……                     |
+| line up                            | 排队，使排成一行                         |
+| a little                           | 一些，少许；稍许，一点儿                 |
+| live on/by                         | 靠……生活，以……为食                       |
+| live through                       | 度过，经受住                             |
+| live up to                         | 无愧于，不辜负                           |
+| as/so long as                      | 只要，如果；既然                         |
+| before long                        | 不久以后                                 |
+| no longer                          | 不再，已不                               |
+| look after                         | 照顾，关心，照料                         |
+| look at                            | 看，注视                                 |
+| look back                          | 回顾，回头看                             |
+| look down upon                     | 看不起                                   |
+| look for                           | 寻找，寻求                               |
+| look forward to                    | 盼望，期待                               |
+| look in                            | 顺便看望，顺便访问                       |
+| look into                          | 窥视，调查，过问                         |
+| look on                            | 旁观，观看                               |
+| look out                           | 注意，警惕                               |
+| look over                          | 检查，查看，调查                         |
+| look through                       | 浏览，温习                               |
+| look up to                         | 尊敬，敬仰                               |
+| look up                            | 查找，查阅，寻找，查出                   |
+| at a loss                          | 困惑，不知所措                           |
+| a lot （of）/ lots of              | 大量，许多；非常，相当                   |
+| fall in love （with）              | 相爱，爱上                               |
+| （be） made from                   | 由……制造                                 |
+| （be） made up of                  | 由……组成/构成                            |
+| make for                           | 走向，冲向                               |
+| make out                           | 开列，书写；看出，辨认出；理解，了解     |
+| make up                            | 拼凑，组成，构成；编造（故事、谎言等）   |
+| make up for                        | 补偿，弥补                               |
+| a great/good many                  | 许多，大量                               |
+| as a matter of fact                | 实际情况，真相                           |
+| no matter                          | 无论，不管……                             |
+| by all means                       | 一定，务必                               |
+| by any means                       | 无论如何                                 |
+| by no means                        | 决不                                     |
+| by means of                        | 用，凭借                                 |
+| in memory of                       | 纪念                                     |
+| at the mercy of                    | 在……支配下                               |
+| bear/have/keep……in mind            | 记在心里                                 |
+| change one·s mind                  | 改变主意                                 |
+| make up one·s mind                 | 决定，下决心                             |
+| never mind                         | 不要紧，没关系                           |
+| by mistake                         | 错误地                                   |
+| mistake……for                       | 将……误认为                               |
+| mix up                             | 混合，混淆，搞糊涂                       |
+| at the moment                      | 此刻                                     |
+| for the moment                     | 暂时，目前                               |
+| in a moment                        | 一会儿                                   |
+| all the more                       | 越发                                     |
+| more or less                       | 或多或少，多少有点                       |
+| no more                            | 不再                                     |
+| no more than                       | 不过，仅仅                               |
+| at（the） most                     | 最多，至多                               |
+| in the name of                     | 以……的名义                               |
+| neither……nor……                     | 既不……也不……                             |
+| from now no                        | 从今以后                                 |
+| just now                           | 刚才，一会儿以前                         |
+| now and then                       | 时而，不时                               |
+| now that                           | 既然                                     |
+| a number of                        | 许多                                     |
+| have……on                           | 穿着……，戴着……                           |
+| on and off                         | 断断续续，不时地                         |
+| so on                              | 等等                                     |
+| （all）at once                     | 突然                                     |
+| once in a while                    | 偶尔，有时                               |
+| once again/more/over               | 再一次，又一次                           |
+| once and again                     | 一而再，再三                             |
+| once for all                       | 再也不，一劳永逸                         |
+| once upon a time                   | 从前                                     |
+| not only……but（also）……            | 不仅……而且……                             |
+| bring/put into operation           | 使实施，使执行                           |
+| come/go into operation             | 实施，执行                               |
+| in order                           | 整齐，次序井然                           |
+| in order that                      | 以便                                     |
+| in order to                        | 以便，为了                               |
+| out of order                       | 发生故障，失调                           |
+| other than                         | 除……之外                                 |
+| all out                            | 全力以赴                                 |
+| out of                             | 在……外，从……里离开                       |
+|                                    | 出于，由于；缺乏，没有                   |
+| all over                           | 到处，遍及                               |
+| owing to                           | 由于，因为                               |
+| on one·s own                       | 独自，靠自己                             |
+| keep pace with                     | 与……保持一致                             |
+| take pains                         | 尽力，煞费苦心                           |
+| take part（in）                    | 参加，参与                               |
+| in particular                      | 特别，尤其；详细地                       |
+| pass away                          | 去世，逝世                               |
+| pass on                            | 传递；向前                               |
+| pass over                          | 省略；忽略                               |
+| pass out                           | 失去知觉，昏倒                           |
+| pay back                           | 偿还，回报                               |
+| pay for                            | 付款；偿还                               |
+| pay off                            | 偿清；取得成功                           |
+| in person                          | 亲自                                     |
+| pick out                           | 选出，挑选                               |
+| pick up                            | 拣起，拾起；（车船）中途搭人带货，增加   |
+| in place                           | 在适当的位置                             |
+| in place of                        | 代替                                     |
+| in the first place                 | 首先，第一                               |
+| take place                         | 发生，进行                               |
+| take the place of                  | 代替                                     |
+| out of place                       | 不适当的，不得其所的                     |
+| play with                          | 以……为消遣，玩弄                         |
+| beside the point                   | 离题，不相干                             |
+| to the point                       | 切中要害；对准                           |
+| point out                          | 指出，指明                               |
+| in a position to                   | 有能力做……                               |
+| in practice                        | 实际上，在实践中                         |
+| out of practice                    | 久不练习，荒疏                           |
+| put……into practice                 | 加以实施                                 |
+| at present                         | 目前，现在                               |
+| for the present                    | 目前，暂时                               |
+| in proportion to                   | 与……成比例                               |
+| in public                          | 公众地                                   |
+| pull down                          | 拉倒，拆毁                               |
+| pull in                            | （交通车船）进站，靠岸                   |
+| pull off                           | 完成（一件艰难的事情）                   |
+| pull out                           | 拔出，抽出，取出；（车船）出站           |
+| pull up                            | 使停下                                   |
+| on purpose                         | 故意，有意                               |
+| put across                         | 解释清楚，说明                           |
+| put aside                          | 储存，保留                               |
+| put away                           | 把……收起来，放好                         |
+| put down                           | 记下，写下                               |
+| put forward                        | 提出                                     |
+| put off                            | 推迟，拖延                               |
+| put on                             | 穿上，戴上；上演；增加（体重）           |
+| put out                            | 熄灭，消灭，灭灯；生产，出版，发布       |
+| put up                             | 举起，升起，提价；为……提供食宿           |
+|                                    | 建造，搭起，支起；张贴                   |
+| put up with                        | 容忍，忍受                               |
+| beyond/without question            | 没问题                                   |
+| in question                        | 在考虑中，在议论中的                     |
+| out of the question                | 不可能的，办不到的                       |
+| queue up                           | 排队                                     |
+| at random                          | 随机地；无目的地                         |
+| at any rate                        | 无论如何，至少                           |
+| rather than                        | 而不，不顾                               |
+| would rather                       | 宁愿，宁可                               |
+| be/get ready for                   | 愿意；准备好                             |
+| refer to                           | 查阅，提到，谈到                         |
+| reflect on/upon                    | 思索                                     |
+| as regards                         | 关于，至于                               |
+| in/with regard to                  | 关于                                     |
+| regardless of                      | 不顾，不管……如何                         |
+| rely on                            | 依靠；信赖                               |
+| remind sb. of……                    | 使想起，提起；提醒                       |
+| with respect to                    | 关于                                     |
+| rest on                            | 依靠                                     |
+| as a result                        | 由于，因此                               |
+| result from                        | 起因于                                   |
+| result in                          | 导致                                     |
+| in return（for）                   | 作为回报，作为报答                       |
+| get rid of                         | 摆脱，除去                               |
+| all right                          | 行，可以；顺利，良好                     |
+| be in the right                    | 有理的                                   |
+| ring off                           | 挂断（电话）                             |
+| ring up                            | 打电话                                   |
+| give rise to                       | 引起，造成                               |
+| on the road                        | 在旅途中                                 |
+| all round                          | 周围，处处                               |
+| rub out                            | 擦掉，拭去                               |
+| as a rule                          | 通常                                     |
+| run across                         | 偶然遇到                                 |
+| run down                           | 撞倒，撞沉                               |
+| run for                            | 竞选                                     |
+| run into                           | 偶然遇到，撞见；碰撞                     |
+| run out（of）                      | 用光，耗尽                               |
+| run over                           | 浏览，匆匆复习                           |
+| run through                        | 匆匆地看                                 |
+| in the long run                    | 最终，从长远观点看                       |
+| for the sake of                    | 为了……                                   |
+| on sale                            | 上市，出售；减价，贱卖                   |
+| for sale                           | 待售                                     |
+| all the same                       | 仍然，照样地                             |
+| that is to say                     | 也就是说                                 |
+| it goes without saying             | 不言而喻                                 |
+| on schedule                        | 按预定时间                               |
+| in search of                       | 寻找，寻求                               |
+| in secret                          | 秘密地，私下地                           |
+| see about                          | 调查，查询                               |
+| see after                          | 照应，照顾                               |
+| see into                           | 调查，检查                               |
+| see off                            | 给……送行                                 |
+| see（to it）that                   | 负责，照料；注意，留心                   |
+| see through                        | 看穿，识破                               |
+| seek after/for                     | 搜寻，寻找，寻觅                         |
+| send for                           | 派人请，召唤；索取                       |
+| send in                            | 呈报，提交，送来                         |
+| send off                           | 寄发                                     |
+| in a sense                         | 从某种意义上说                           |
+| make sense                         | 讲得通，言之有理                         |
+| serve as                           | 担任；起……作用                           |
+| set about                          | 开始，着手；出发                         |
+| set aside                          | 宣布无效；驳回，废止                     |
+| set back                           | 推迟，延缓，阻碍                         |
+| set down                           | 记下，写下                               |
+| set forth                          | 提出，阐明                               |
+| set off                            | 动身，出发；使爆炸，使爆发；引起         |
+| set out                            | 动身，出发，开始；制定，打算             |
+| set up                             | 建立，设立，树立；资助，使自立，扶持     |
+| settle down                        | 定居，过安定的生活                       |
+| cut short                          | 打断；缩减                               |
+| fall/run short（of）               | 缺少，快用完                             |
+| for short                          | 简称，缩写                               |
+| in short                           | 简言之，总之                             |
+| show in                            | 领人，领入                               |
+| show off                           | 炫耀，卖弄                               |
+| show up                            | 使显现，使醒目                           |
+| shut down                          | 关闭                                     |
+| shut out                           | 排除                                     |
+| shut up                            | 住口；关上全部门窗                       |
+| sick of                            | 厌烦                                     |
+| side by side                       | 肩并肩，一个挨一个                       |
+| at first sight                     | 初看，乍看                               |
+| catch/have/get sight of            | 看到，发现                               |
+| in sight                           | 被见到，在望                             |
+| lose sight（of）                   | 没看见；失明                             |
+| out of sight                       | 看不见，在视野以外                       |
+| sit up                             | 迟睡，熬夜                               |
+| slow down                          | 放慢速度                                 |
+| or so                              | 大约，左右                               |
+| so that                            | 以便，为的是；结果是，以致               |
+| so……as to……                        | 如此……以至于/以便……                      |
+| so……that……                         | 如此……以至于……                           |
+| as soon as                         | 一……就……                                 |
+| no sooner……than……                  | 一……就……                                 |
+| sooner or later                    | 迟早，早晚                               |
+| speak for                          | 替……讲话                                 |
+| speak of                           | 谈到                                     |
+| speak out                          | 大声说                                   |
+| speed up                           | 使加速                                   |
+| in spite of                        | 尽管，不顾，虽然                         |
+| on the spot                        | 当场，在现场                             |
+| stand by                           | 站在旁边，袖手旁观；站在一起，支持帮助   |
+| stand for                          | 代替，代表，意味着                       |
+| stand out                          | 突出，显眼                               |
+| stand up for                       | 为……辩护，维护                           |
+| stand up to                        | 勇敢地面对，坚决抵抗                     |
+| stand up                           | 站起，竖起                               |
+| step by step                       | 逐步                                     |
+| step down                          | 让位，下台                               |
+| step in                            | 插入，介入                               |
+| step up                            | 提高，加快，加紧                         |
+| stick to                           | 坚持，忠于，信守                         |
+| substitute for                     | 替代；取代，代替                         |
+| such as                            | 像……那样的，诸如，例如                   |
+| such……that                         | 那样的……以至                             |
+| all of a sudden                    | 突然                                     |
+| sum up                             | 总结，概括                               |
+| （be）sure of                      | 确信……                                   |
+| make sure（of）                    | 查明，弄确实                             |
+| for sure                           | 当然，一定；肯定，毫无疑问               |
+| take after                         | 与……相像                                 |
+| take apart                         | 拆开                                     |
+| take back                          | 收回，带回                               |
+| take down                          | 记下，写下                               |
+| take……for……                        | 误认为……，误以为……                       |
+| take in                            | 接受，容纳；领会，理解；欺骗             |
+| take off                           | 拿走，脱下；起飞                         |
+| take on                            | 呈现，具有，装出，接纳，接受，承担，从事 |
+| take over                          | 接管，接收                               |
+| take up                            | 占去，占据，开始从事，拿起，捡起         |
+| talk back                          | 顶嘴                                     |
+| talk into                          | 说服                                     |
+| talk over                          | 商量，讨论                               |
+| in tears                           | 流着泪，含泪，哭                         |
+| in good/bad temper                 | 心情好/不好                              |
+| keep one·s temper                  | 忍住性子                                 |
+| lose one·s temper                  | 发火，发脾气                             |
+| thanks to                          | 由于，多亏                               |
+| that is                            | 就是说，即                               |
+| think better of                    | 改变主意，重新考虑                       |
+| think of                           | 想到，想起                               |
+| think of……as……                     | 把……认为是……                             |
+| think over                         | 仔细考虑                                 |
+| throw away                         | 扔掉，抛弃                               |
+| throw up                           | 呕吐                                     |
+| all the time                       | 一直                                     |
+| at a time                          | 每次，一次                               |
+| at all times                       | 总是，无论何时                           |
+| at any time                        | 在任何时候                               |
+| at no time                         | 从不，决不                               |
+| at the same time                   | 同时；然而                               |
+| at times                           | 有时                                     |
+| for the time being                 | 目前，暂时                               |
+| from time to time                  | 时常                                     |
+| in no time                         | 立即，马上                               |
+| in time                            | 及时地，适时地                           |
+| on time                            | 准时                                     |
+| take one·s time                    | 不急不忙，从容进行                       |
+| on top of                          | 在……之上                                 |
+| keep in touch                      | 保持联系                                 |
+| out of touch                       | 失去联系                                 |
+| touch on                           | 关系到，涉及                             |
+| try on                             | 试穿                                     |
+| try out                            | 试验                                     |
+| by turns                           | 轮流，交替地                             |
+| in turn                            | 依次，轮流                               |
+| take turns                         | 轮流                                     |
+| turn down                          | 调低，关小                               |
+| turn in                            | 交出，上缴；转身进入，拐入               |
+| turn inito                         | 使变成                                   |
+| turn off                           | 关，关闭                                 |
+| turn on                            | 打开，拧开                               |
+| turn out                           | 生产，制造；驱逐，使离开，证明/结果是    |
+| turn over                          | 翻过来，翻倒；思考，考虑，移交，转交     |
+| turn to                            | 转向；求助于                             |
+| turn up                            | 出现，发生                               |
+| up to                              | 一直到；等于；从事于，忙于               |
+| make use of                        | 利用                                     |
+| put……to use                        | 使用，予以利用                           |
+| use up                             | 用光，花完                               |
+| be/get used to                     | 习惯于                                   |
+| used to                            | （过去）总是                             |
+| as usual                           | 像往常一样，照例                         |
+| a variety of                       | 多种的，各种各样的                       |
+| in view of                         | 鉴于，考虑到；由于                       |
+| wait on                            | 伺候                                     |
+| ward off                           | 避开，防止                               |
+| warm up                            | 变热                                     |
+| watch out（for）                   | 戒备，提防                               |
+| by the way                         | 顺便提一下，另外                         |
+| by way of                          | 通过……方式                               |
+| get in the way                     | 成为障碍                                 |
+| give way to                        | 让位于，被……代替                         |
+| in a way                           | 在某种程度上；从某一点看                 |
+| in one·s/the way                   | 妨碍，阻碍                               |
+| lead the way                       | 带路，引路                               |
+| make one·s way                     | 前进，行进                               |
+| make way（for）                    | 开路，让路                               |
+| in no way                          | 决不                                     |
+| out of the way                     | 不寻常的；已经解决的                     |
+| under way                          | 进行中                                   |
+| wear down                          | 磨损，损耗；使疲劳                       |
+| wear out                           | 穿坏；（使）耗尽                         |
+| as well                            | 同样，也；倒不如                         |
+| as well as                         | 既……又……；除……之外（还）                 |
+| what about                         | （对于）……怎么样                         |
+| what if                            | 如果……将会怎样                           |
+|                                    | 即使……又有什么要紧                       |
+| whether……or……                      | 是……还是……；不管……还是……                 |
+| after a while                      | 过了一会                                 |
+| once in a while                    | 偶尔                                     |
+| on the whole                       | 总的来说                                 |
+| wipe out                           | 消灭，毁灭                               |
+| no wonder                          | 难怪，怪不得                             |
+| have a word with                   | 和某人谈谈                               |
+| in a word                          | 总而言之                                 |
+| in other words                     | 换句话说，也就是说                       |
+| keep one·s word                    | 守信用                                   |
+| leave word                         | 留言                                     |
+| word for word                      | 逐字地                                   |
+| at work                            | 在工作，忙于                             |
+| out of work                        | 失业                                     |
+| work at/on                         | 从事                                     |
+| work out                           | 解决，算出；设计出，制定出               |
+| work up                            | 引起，激起；逐渐向上，向上爬             |
+| worry about                        | 担心                                     |
+
    
